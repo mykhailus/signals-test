@@ -1,133 +1,130 @@
 {
- "generated_at": "2026-10-09T12:45:02.260Z",
+ "generated_at": "2026-10-09T13:10:12.741Z",
  "window_days": 7,
- "theme": "обучение AI",
+ "theme": "личные финансы",
  "digest": [
-  "tiktok:7694081567911693598",
-  "youtube:_rtp1XzaP6Q",
-  "youtube:dDgncbBAA0c",
-  "youtube:ZHVNTTKu9fU",
-  "tiktok:7692221017917345054",
-  "youtube:rxpV3QLV-pg"
+  "youtube:j4hX44xosgc",
+  "youtube:1qq76Id8pnw",
+  "tiktok:7692071761986260244",
+  "youtube:4xOsRz4Ns0k"
  ],
  "formats": {
   "shapes": [
    {
     "name": "вертикальный 9:16",
-    "count": 2
+    "count": 1
    }
   ],
-  "of": 6
+  "of": 4
  },
  "source_report": [
   {
-   "source": "tiktok/rileybrown.ai",
+   "source": "tiktok/investfuture",
    "ok": true,
-   "scanned": 13,
-   "fresh": 1
-  },
-  {
-   "source": "tiktok/nate.b.jones",
-   "ok": true,
-   "scanned": 13,
-   "fresh": 6
-  },
-  {
-   "source": "youtube/deeplearningai",
-   "ok": true,
-   "scanned": 30,
+   "scanned": 1,
    "fresh": 0
   },
   {
-   "source": "youtube/TwoMinutePapers",
+   "source": "tiktok/olgasabitova",
    "ok": true,
-   "scanned": 30,
-   "fresh": 2
+   "scanned": 0,
+   "fresh": 0
   },
   {
-   "source": "youtube/aiexplained-official",
+   "source": "tiktok/kokorevinvest",
    "ok": true,
-   "scanned": 30,
-   "fresh": 1
-  },
-  {
-   "source": "youtube/mreflow",
-   "ok": true,
-   "scanned": 30,
-   "fresh": 1
-  },
-  {
-   "source": "youtube/matthew_berman",
-   "ok": true,
-   "scanned": 30,
+   "scanned": 10,
    "fresh": 4
   },
   {
-   "source": "youtube/NateBJones",
+   "source": "youtube/T_J_youtube",
+   "ok": true,
+   "scanned": 30,
+   "fresh": 1
+  },
+  {
+   "source": "youtube/RationalAnswer",
+   "ok": true,
+   "scanned": 30,
+   "fresh": 1
+  },
+  {
+   "source": "youtube/InvestFutureRu",
    "ok": true,
    "scanned": 30,
    "fresh": 5
   },
   {
-   "source": "youtube/futurepedia_io",
+   "source": "youtube/olgasabitova",
+   "ok": true,
+   "scanned": 30,
+   "fresh": 3
+  },
+  {
+   "source": "youtube/kokorevinvest",
    "ok": true,
    "scanned": 30,
    "fresh": 1
   },
   {
-   "source": "youtube/mattvidpro",
+   "source": "youtube/tihiedengi.channel",
+   "ok": true,
+   "scanned": 19,
+   "fresh": 3
+  },
+  {
+   "source": "youtube/NataliCash",
    "ok": true,
    "scanned": 30,
    "fresh": 1
   },
   {
-   "source": "youtube/WesRoth",
+   "source": "youtube/Finley_Rus",
    "ok": true,
    "scanned": 30,
-   "fresh": 4
+   "fresh": 1
   },
   {
-   "source": "youtube/AllAboutAI",
+   "source": "youtube/Dengi24",
    "ok": true,
    "scanned": 30,
    "fresh": 2
   }
  ],
- "summary": "За 7 дней на YouTube в теме AI лидируют форматы тревожных заголовков и дайджестов новостей: видео про проблемы контроля моделей OpenAI набрало ≈260000 просмотров, обзор новых моделей (GPT-6.1, Sonnet 5.5, Gemini 4) – ≈153000, а тема исчезающего преимущества крупных игроков в AI – ≈146000. Узкая тема про данные и покупку старых писем Google собрала значительно меньше – ≈12000, что заметно ниже остальных в этой подборке.",
+ "summary": "",
  "signals": [
   {
-   "id": "tiktok:7694081567911693598",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7694081567911693598",
-   "title": "It takes 5 seconds. Try it and let me know your thoughts. #aihack #ai #aiprompts #artificialintelligence #aitips ",
-   "posted_at": "2026-10-08T00:06:03.000Z",
-   "popularity": 643800,
+   "id": "youtube:j4hX44xosgc",
+   "platform": "youtube",
+   "source": "@T_J_youtube",
+   "person": "t_j_youtube",
+   "url": "https://www.youtube.com/watch?v=j4hX44xosgc",
+   "title": "Финансовая грамотность в одном видео за 90 минут: бюджет, долги, подушка и накопления",
+   "posted_at": "2026-10-07T13:08:58.457Z",
+   "popularity": 93000,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 491300
+    "followers": null
    },
+   "approx": true,
    "format": {
     "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
+    "width": 1280,
+    "height": 720
    },
-   "media": "data/media/tiktok-0f53a06ba59a.jpg",
-   "first_seen": "2026-10-09T11:59:18.636Z",
+   "media": "data/media/youtube-9b70a6b7618a.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": true
   },
   {
-   "id": "youtube:_rtp1XzaP6Q",
+   "id": "youtube:1qq76Id8pnw",
    "platform": "youtube",
-   "source": "@aiexplained-official",
-   "person": "aiexplained-official",
-   "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
-   "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
-   "posted_at": "2026-10-02T12:43:54.693Z",
-   "popularity": 261000,
+   "source": "@olgasabitova",
+   "person": "ольга сабитова",
+   "url": "https://www.youtube.com/watch?v=1qq76Id8pnw",
+   "title": "The Government PAYS YOU to Invest! / How can EVERYONE get MONEY through an IIS?",
+   "posted_at": "2026-10-07T13:09:29.518Z",
+   "popularity": 32000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -138,48 +135,43 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-aa046e8b4d6b.jpg",
-   "first_seen": "2026-10-09T11:42:32.203Z",
-   "why": "залетело за счет тревожного заголовка с конфликтом и словом 'hell', играющим на страхе потери контроля над AI",
-   "remake": "сделать видео про риски и ограничения AI-инструментов в работе с острым заголовком, но с практическим выводом для аудитории курсов",
-   "about": "Видео о сложностях OpenAI с контролем и безопасностью своих моделей.",
+   "media": "data/media/youtube-ed7488fc5e9c.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": true
   },
   {
-   "id": "youtube:dDgncbBAA0c",
-   "platform": "youtube",
-   "source": "@mreflow",
-   "person": "mreflow",
-   "url": "https://www.youtube.com/watch?v=dDgncbBAA0c",
-   "title": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
-   "posted_at": "2026-10-03T12:44:00.265Z",
-   "popularity": 153000,
+   "id": "tiktok:7692071761986260244",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7692071761986260244",
+   "title": "Какие валютные облигации я покупаю? ⚡️Больше об инвестициях у меня в Телеграм, подписывайтесь, ссылка в шапке профиля! Здравствуйте! С вами Дмитрий Кокорев. Показываю валютную облигацию крупной россий",
+   "posted_at": "2026-10-02T14:06:59.000Z",
+   "popularity": 8549,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": null
+    "followers": 8302
    },
-   "approx": true,
    "format": {
     "kind": "видео",
-    "width": 1280,
-    "height": 720
+    "width": 576,
+    "height": 1024,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
    },
-   "media": "data/media/youtube-448ca5bc3ab4.jpg",
-   "first_seen": "2026-10-09T11:42:32.203Z",
-   "why": "формат дайджеста новостей с конкретными названиями моделей собирает тех, кто хочет быть в курсе всего разом",
-   "remake": "делать регулярный дайджест новых AI-инструментов и моделей с акцентом на то, что из этого применимо в работе уже сейчас",
-   "about": "Дайджест новостей AI с обзором новых моделей: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4.",
+   "media": "data/media/tiktok-6cb62a26490f.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": true
   },
   {
-   "id": "youtube:ZHVNTTKu9fU",
+   "id": "youtube:4xOsRz4Ns0k",
    "platform": "youtube",
-   "source": "@TwoMinutePapers",
-   "person": "twominutepapers",
-   "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-   "title": "The Billion Dollar AI Advantage Is Disappearing",
-   "posted_at": "2026-10-05T12:43:48.816Z",
-   "popularity": 146000,
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=4xOsRz4Ns0k",
+   "title": "Income is credited. Where's the money? How Khomyak was sold a handsome return #kirayukhtenko #inv...",
+   "posted_at": "2026-10-08T15:09:10.472Z",
+   "popularity": 8800,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -190,189 +182,91 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-ace2c8bb608a.jpg",
-   "first_seen": "2026-10-09T11:42:32.203Z",
-   "why": "заголовок на контрасте больших денег и их исчезновения создает интригу про смену расклада сил в AI",
-   "remake": "показать на примере курса, как раньше преимущество давали большие бюджеты, а теперь – навык применения AI, доступный каждому",
-   "about": "Видео о том, что прежнее преимущество крупных компаний в AI за счет больших вложений теряет силу.",
+   "media": "data/media/youtube-ddbc25763a6a.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": true
   },
   {
-   "id": "tiktok:7692221017917345054",
+   "id": "tiktok:7693970389533347079",
    "platform": "tiktok",
-   "source": "@rileybrown.ai",
-   "person": "riley brown",
-   "url": "https://www.tiktok.com/@rileybrown.ai/video/7692221017917345054",
-   "title": "Needed to figure out what to do with my old phone.  So I built Bluey, powered by GPT Realtime 2... I think.... idk how it works... Opus 5.5 Built the entire thing Bluey is an iOS app + mac app that is",
-   "posted_at": "2026-10-02T23:46:10.000Z",
-   "popularity": 113600,
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7693970389533347079",
+   "title": "Почему рубль сейчас СЛАБЕЕТ?  ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. Разбираю, почему рубль сейчас слабеет и какую рол",
+   "posted_at": "2026-10-07T16:54:38.000Z",
+   "popularity": 1262,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 637300
+    "followers": 8302
    },
    "format": {
     "kind": "видео",
-    "width": 720,
-    "height": 1280,
+    "width": 576,
+    "height": 1024,
     "ratio": 0.56,
     "name": "вертикальный 9:16"
    },
-   "media": "data/media/tiktok-0c7439bf5f32.jpg",
-   "first_seen": "2026-10-09T11:59:18.636Z",
-   "picked": true
+   "media": "data/media/tiktok-d7bed717175f.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
+   "picked": false
   },
   {
-   "id": "youtube:rxpV3QLV-pg",
-   "platform": "youtube",
-   "source": "@WesRoth",
-   "person": "wesroth",
-   "url": "https://www.youtube.com/watch?v=rxpV3QLV-pg",
-   "title": "OpenAI’s “Alien Math” Is Freaking People Out",
-   "posted_at": "2026-10-09T04:44:46.243Z",
-   "popularity": 85000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-2c2fbf6c74af.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
-   "picked": true
-  },
-  {
-   "id": "tiktok:7694456013528763678",
+   "id": "tiktok:7693603402911124756",
    "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7694456013528763678",
-   "title": "That’s model vs effort in plain English. #aiexplained #ai #aitips #artificialintelligence #promptengineering ",
-   "posted_at": "2026-10-09T00:19:06.000Z",
-   "popularity": 15200,
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7693603402911124756",
+   "title": "Почему аренда дорожает БЫСТРЕЕ зарплат? ⚡️Все об инвестициях у меня в Телеграм, подписывайте по ссылке в шапке профиля! Здравствуйте! С вами Дмитрий Кокорев. Аренда растет быстрее зарплат, и первое об",
+   "posted_at": "2026-10-06T17:10:32.000Z",
+   "popularity": 88,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 491300
+    "followers": 8302
    },
    "format": {
     "kind": "видео",
-    "width": 720,
-    "height": 1280,
+    "width": 576,
+    "height": 1024,
     "ratio": 0.56,
     "name": "вертикальный 9:16"
    },
-   "media": "data/media/tiktok-ee42af1228a0.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/tiktok-09c1b099bc0d.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "tiktok:7693706779225492767",
+   "id": "tiktok:7693239138274921746",
    "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7693706779225492767",
-   "title": "We’ll all find out soon. #ainews #google #argon #ai #artificialintelligence ",
-   "posted_at": "2026-10-06T23:51:41.000Z",
-   "popularity": 23100,
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7693239138274921746",
+   "title": "Зачем государство занимает деньги? ⚡️Все об инвестициях у меня в Телеграм, подписывайтесь по ссылке в шапке профиля! Здравствуйте! С вами Дмитрий Кокорев. Налоги мы платим исправно, а государство всё ",
+   "posted_at": "2026-10-05T17:37:00.000Z",
+   "popularity": 4854,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 491300
+    "followers": 8302
    },
    "format": {
     "kind": "видео",
-    "width": 720,
-    "height": 1280,
+    "width": 576,
+    "height": 1024,
     "ratio": 0.56,
     "name": "вертикальный 9:16"
    },
-   "media": "data/media/tiktok-10af97a9889b.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/tiktok-1da5d08f355a.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "tiktok:7692965678474743071",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7692965678474743071",
-   "title": "Where's the line? You decide. #aitake #ai #law #aiethics #artificialintelligence ",
-   "posted_at": "2026-10-04T23:55:50.000Z",
-   "popularity": 6843,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 491300
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-594c2a3bbf80.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7692593908458507550",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7692593908458507550",
-   "title": "Dozens of these have popped up in the last few months. #ainews #history #learnontiktok #ai #artificialintelligence ",
-   "posted_at": "2026-10-03T23:53:11.000Z",
-   "popularity": 33900,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 491300
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-c96edc147367.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7692224566776712478",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7692224566776712478",
-   "title": "Form is one of those things that's hard to self-correct because you can't see yourself. Muse closes that gap with a video and a joint map. Simple and genuinely useful. #aihack #muse #fitness #ai #arti",
-   "posted_at": "2026-10-02T23:59:57.000Z",
-   "popularity": 27600,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 491300
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-3531abdf2ed5.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:Wkaw03p3BrM",
+   "id": "youtube:BTCT_vGhWgc",
    "platform": "youtube",
-   "source": "@TwoMinutePapers",
-   "person": "twominutepapers",
-   "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-   "title": "DeepMind's New AI Just Cracked The Code Of Life",
-   "posted_at": "2026-10-08T12:43:47.153Z",
-   "popularity": 126000,
+   "source": "@RationalAnswer",
+   "person": "rationalanswer",
+   "url": "https://www.youtube.com/watch?v=BTCT_vGhWgc",
+   "title": "Трамп регулирует ИИ / Новый бюджет РФ на 2027 / Запрет на вывоз налички из РФ",
+   "posted_at": "2026-10-05T13:09:04.448Z",
+   "popularity": 16000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -383,19 +277,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-a6ad78e1e7fa.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-ba34cc67d9bd.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:BsNHg6cNjZE",
+   "id": "youtube:Ap306V99lAw",
    "platform": "youtube",
-   "source": "@matthew_berman",
-   "person": "matthew_berman",
-   "url": "https://www.youtube.com/watch?v=BsNHg6cNjZE",
-   "title": "12 Muse Use Cases That Feel Illegal",
-   "posted_at": "2026-10-08T12:44:05.951Z",
-   "popularity": 35000,
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=Ap306V99lAw",
+   "title": "New home sales are falling. Why are apartment prices rising?",
+   "posted_at": "2026-10-08T13:09:12.431Z",
+   "popularity": 23000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -406,19 +300,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-5178913e02b2.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-94cb56b56406.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:_qLUvCeu19E",
+   "id": "youtube:2gEejnKM0ZY",
    "platform": "youtube",
-   "source": "@matthew_berman",
-   "person": "matthew_berman",
-   "url": "https://www.youtube.com/watch?v=_qLUvCeu19E",
-   "title": "Few Things",
-   "posted_at": "2026-10-07T03:35:59.000Z",
-   "popularity": 0,
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=2gEejnKM0ZY",
+   "title": "Dollar at 75 — Is It Realistic? Oil, Exports, and a New Forecast",
+   "posted_at": "2026-10-06T13:09:14.205Z",
+   "popularity": 30000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -429,19 +323,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-7597576dee26.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-f3287ccc45de.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:Hu1JOK6aXsI",
+   "id": "youtube:GChklSyWnv0",
    "platform": "youtube",
-   "source": "@matthew_berman",
-   "person": "matthew_berman",
-   "url": "https://www.youtube.com/watch?v=Hu1JOK6aXsI",
-   "title": "Mistral is BACK! (Le Chonk)",
-   "posted_at": "2026-10-07T12:44:09.524Z",
-   "popularity": 106000,
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=GChklSyWnv0",
+   "title": "Bonds at 20% and Higher: Where’s the Yield and Where’s the Trap?",
+   "posted_at": "2026-10-03T13:09:16.202Z",
+   "popularity": 30000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -452,19 +346,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-b29d992263b2.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-260ba9572aa6.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:9eS6X_-h9gc",
+   "id": "youtube:WKKP8Vp8gUk",
    "platform": "youtube",
-   "source": "@matthew_berman",
-   "person": "matthew_berman",
-   "url": "https://www.youtube.com/watch?v=9eS6X_-h9gc",
-   "title": "28 Days of OpenAI",
-   "posted_at": "2026-10-05T22:07:59.000Z",
-   "popularity": 0,
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=WKKP8Vp8gUk",
+   "title": "Average Salary Hits 109 Thousand: Why Are Russians Taking Out More Loans?",
+   "posted_at": "2026-10-03T13:09:17.958Z",
+   "popularity": 29000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -475,19 +369,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-e4226368ed91.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-de7e48834bd1.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:wep2EQ9Y_Tc",
+   "id": "youtube:L3wgpFwy3Js",
    "platform": "youtube",
-   "source": "@NateBJones",
-   "person": "nate b jones",
-   "url": "https://www.youtube.com/watch?v=wep2EQ9Y_Tc",
-   "title": "Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?",
-   "posted_at": "2026-10-08T20:44:18.988Z",
-   "popularity": 12000,
+   "source": "@olgasabitova",
+   "person": "ольга сабитова",
+   "url": "https://www.youtube.com/watch?v=L3wgpFwy3Js",
+   "title": "How much money you should have 1",
+   "posted_at": "2026-10-08T15:09:27.727Z",
+   "popularity": 9300,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -498,45 +392,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-8c719adad313.jpg",
-   "first_seen": "2026-10-09T11:42:32.203Z",
-   "why": "низкие просмотры говорят, что узкая тема про конкретную сделку Google без явной пользы для зрителя не цепляет так, как новости о моделях",
-   "remake": "избегать слишком нишевых корпоративных новостей без прямой связи с тем, что аудитория может применить",
-   "about": "Видео о том, почему Google, имея много данных, тратит крупную сумму на покупку старых архивов писем.",
-   "picked": true
-  },
-  {
-   "id": "youtube:sVQ3XlM9I40",
-   "platform": "youtube",
-   "source": "@NateBJones",
-   "person": "nate b jones",
-   "url": "https://www.youtube.com/watch?v=sVQ3XlM9I40",
-   "title": "Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.",
-   "posted_at": "2026-10-08T12:44:20.853Z",
-   "popularity": 39000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-011b191a4da7.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-52059e9d28a7.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:0j8wy4jUlsw",
+   "id": "youtube:ngd-Ir9UJNM",
    "platform": "youtube",
-   "source": "@NateBJones",
-   "person": "nate b jones",
-   "url": "https://www.youtube.com/watch?v=0j8wy4jUlsw",
-   "title": "The end of the app era: What comes next?",
-   "posted_at": "2026-10-05T12:44:22.630Z",
-   "popularity": 102000,
+   "source": "@olgasabitova",
+   "person": "ольга сабитова",
+   "url": "https://www.youtube.com/watch?v=ngd-Ir9UJNM",
+   "title": "OS Mistakes That Turn Investing Into an Expensive Lesson v2",
+   "posted_at": "2026-10-02T13:09:31.420Z",
+   "popularity": 27000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -547,19 +415,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-5be78a0df13d.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-025c3dd2ae95.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:lnB4Zckx_34",
+   "id": "youtube:_VzWfbQY9s0",
    "platform": "youtube",
-   "source": "@NateBJones",
-   "person": "nate b jones",
-   "url": "https://www.youtube.com/watch?v=lnB4Zckx_34",
-   "title": "OpenAI Put Dots Behind A $100 A Month Plan. Is It Worth It?",
-   "posted_at": "2026-10-04T12:44:24.525Z",
-   "popularity": 65000,
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.youtube.com/watch?v=_VzWfbQY9s0",
+   "title": "The Russian market has stocks even Americans dream of! Here is the list!",
+   "posted_at": "2026-10-06T13:09:38.333Z",
+   "popularity": 44000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -570,19 +438,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-6b6a1ef55183.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-3ba67094f387.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:avN5R3OhxYs",
+   "id": "youtube:r9Iw-lHqkPw",
    "platform": "youtube",
-   "source": "@NateBJones",
-   "person": "nate b jones",
-   "url": "https://www.youtube.com/watch?v=avN5R3OhxYs",
-   "title": "Your Company Runs On Microsoft? OpenClaw, The Agent Nadella Compared To A Virus, Is Coming.",
-   "posted_at": "2026-10-03T12:44:26.439Z",
-   "popularity": 38000,
+   "source": "@tihiedengi.channel",
+   "person": "tihiedengi.channel",
+   "url": "https://www.youtube.com/watch?v=r9Iw-lHqkPw",
+   "title": "Как объяснить ребёнку цену денег: 6 вещей",
+   "posted_at": "2026-10-08T15:09:46.187Z",
+   "popularity": 620,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -593,19 +461,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-ad4893664b98.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-0cdadb283fe8.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:OiP0YBHLjqo",
+   "id": "youtube:VQ1gqCoif0Y",
    "platform": "youtube",
-   "source": "@futurepedia_io",
-   "person": "futurepedia_io",
-   "url": "https://www.youtube.com/watch?v=OiP0YBHLjqo",
-   "title": "Gemini Skills Are Finally Here (Master in 9 Minutes)",
-   "posted_at": "2026-10-03T12:44:33.888Z",
-   "popularity": 65000,
+   "source": "@tihiedengi.channel",
+   "person": "tihiedengi.channel",
+   "url": "https://www.youtube.com/watch?v=VQ1gqCoif0Y",
+   "title": "Как выбраться из рассрочек, 6 вещей, которые это объясняют",
+   "posted_at": "2026-10-07T13:09:47.984Z",
+   "popularity": 282,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -616,19 +484,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-fbcdcf0d929d.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-15bff36ac3a1.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:COgSlYOwEaI",
+   "id": "youtube:LE_XjgAw7M0",
    "platform": "youtube",
-   "source": "@mattvidpro",
-   "person": "mattvidpro",
-   "url": "https://www.youtube.com/watch?v=COgSlYOwEaI",
-   "title": "Create Crazy AI intros with a Single Prompt!",
-   "posted_at": "2026-10-08T22:44:39.732Z",
-   "popularity": 5400,
+   "source": "@tihiedengi.channel",
+   "person": "tihiedengi.channel",
+   "url": "https://www.youtube.com/watch?v=LE_XjgAw7M0",
+   "title": "Как перестать платить за то, чем не пользуетесь",
+   "posted_at": "2026-10-04T13:09:49.875Z",
+   "popularity": 2400,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -639,19 +507,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-0207d0716820.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-f21c86a85b23.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:fTGIV3e8dTU",
+   "id": "youtube:qXv8gmR7h1k",
    "platform": "youtube",
-   "source": "@WesRoth",
-   "person": "wesroth",
-   "url": "https://www.youtube.com/watch?v=fTGIV3e8dTU",
-   "title": "OpenAI's secret model just BROKE math...",
-   "posted_at": "2026-10-07T12:44:47.933Z",
-   "popularity": 137000,
+   "source": "@NataliCash",
+   "person": "natalicash",
+   "url": "https://www.youtube.com/watch?v=qXv8gmR7h1k",
+   "title": "#223 First budget allocation for October 40000 RUB",
+   "posted_at": "2026-10-05T13:09:56.060Z",
+   "popularity": 978,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -662,19 +530,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-c404fc37269d.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-9d6f891279b8.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:9CGsq3A590Q",
+   "id": "youtube:prf0SGmwcvk",
    "platform": "youtube",
-   "source": "@WesRoth",
-   "person": "wesroth",
-   "url": "https://www.youtube.com/watch?v=9CGsq3A590Q",
-   "title": "OpenAI's employee's WARNING",
-   "posted_at": "2026-10-05T12:44:49.677Z",
-   "popularity": 131000,
+   "source": "@Finley_Rus",
+   "person": "finley_rus",
+   "url": "https://www.youtube.com/watch?v=prf0SGmwcvk",
+   "title": "Мышление миллионера: 4 года жизни ты отдаёшь бесплатно",
+   "posted_at": "2026-10-03T13:10:01.850Z",
+   "popularity": 622,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -685,19 +553,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-f34f4ff01450.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-9d1b2f2b5156.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:Sy1Fjf-H-Qg",
+   "id": "youtube:K1k57GHSc4A",
    "platform": "youtube",
-   "source": "@WesRoth",
-   "person": "wesroth",
-   "url": "https://www.youtube.com/watch?v=Sy1Fjf-H-Qg",
-   "title": "GEMINI 4 is nuts...",
-   "posted_at": "2026-10-02T12:44:51.307Z",
-   "popularity": 111000,
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=K1k57GHSc4A",
+   "title": "Bank Insurance | Money 24 | Financial Literacy",
+   "posted_at": "2026-10-08T16:10:07.666Z",
+   "popularity": 1400,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -708,19 +576,19 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-3215e8e90361.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-7e92bb7c442f.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   },
   {
-   "id": "youtube:-jgGCvwBz3Q",
+   "id": "youtube:r5E1Anicgmc",
    "platform": "youtube",
-   "source": "@AllAboutAI",
-   "person": "allaboutai",
-   "url": "https://www.youtube.com/watch?v=-jgGCvwBz3Q",
-   "title": "Start Using AI Predictions To Beat The Market Today (beginner's guide)",
-   "posted_at": "2026-10-07T12:44:57.159Z",
-   "popularity": 6100,
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=r5E1Anicgmc",
+   "title": "What is Temporary Management? | Money 24",
+   "posted_at": "2026-10-03T13:10:09.438Z",
+   "popularity": 8500,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -731,31 +599,8 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-50bad3330760.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:TD0VZSWmUoQ",
-   "platform": "youtube",
-   "source": "@AllAboutAI",
-   "person": "allaboutai",
-   "url": "https://www.youtube.com/watch?v=TD0VZSWmUoQ",
-   "title": "Opus 5.5 Is INSANE: Day Trader Tycoon (with real money)",
-   "posted_at": "2026-10-03T12:44:58.957Z",
-   "popularity": 15000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-c49dda52faa8.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
+   "media": "data/media/youtube-c9940fa89d77.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": false
   }
  ]
