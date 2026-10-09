@@ -58,7 +58,9 @@ jobs:
 
   pages:
     needs: collect
-    if: always() && (needs.collect.result == 'success' || needs.collect.result == 'skipped')
+    # Первый коммит нового репозитория из шаблона (before = нули) не публикуется:
+    # Pages ещё не включены, и прогон был бы красным.
+    if: always() && (needs.collect.result == 'success' || needs.collect.result == 'skipped') && github.event.before != '0000000000000000000000000000000000000000'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

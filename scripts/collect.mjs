@@ -197,6 +197,14 @@ async function youtubeVideo(id) {
   };
 }
 
+// Список роликов канала YouTube отдаёт с автопереводом названий на язык
+// запроса; oEmbed возвращает название так, как его написал автор.
+async function youtubeTitle(id) {
+  const res = await fetch(`https://www.youtube.com/oembed?url=${encodeURIComponent(`https://www.youtube.com/watch?v=${id}`)}&format=json`, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(15_000) });
+  if (!res.ok) return null;
+  return (await res.json()).title || null;
+}
+
 async function collectYoutube(list, windowStart, windowDays, report) {
   const out = [];
   for (const item of list) {
@@ -213,13 +221,14 @@ async function collectYoutube(list, windowStart, windowDays, report) {
         const published = exact.published || (video.age !== null ? new Date(Date.now() - video.age * 86_400_000).toISOString() : null);
         if (!published || new Date(published).getTime() < windowStart) continue;
         fresh += 1;
+        const title = (await youtubeTitle(video.id).catch(() => null)) || video.title;
         out.push({
           id: `youtube:${video.id}`,
           platform: 'youtube',
           source: `@${handle}`,
           person,
           url: `https://www.youtube.com/watch?v=${video.id}`,
-          title: video.title.slice(0, 200),
+          title: title.slice(0, 200),
           posted_at: new Date(published).toISOString(),
           popularity: exact.views || video.views || 0,
           popularity_unit: 'просмотры',
@@ -273,14 +282,14 @@ async function probe(spec) {
         const id = await youtubeChannelId(handle.replace(/^@/, ''));
         const videos = youtubeLockups(await youtubePage(`https://www.youtube.com/channel/${id}/videos`));
         const month = videos.filter((v) => v.age !== null && v.age <= 30).length;
-        console.log(`ok   youtube/${handle} · канал ${id} · роликов за 30 дней: ${month}`);
+        console.log(`${month ? 'ok  ' : 'тихо'} youtube/${handle} · канал ${id} · роликов за 30 дней: ${month}`);
       } else {
         const page = await tiktokProfile(handle.replace(/^@/, ''));
         const month = page.videoList.filter((v) => {
           const at = tiktokCreatedAt(v.id);
           return at && Date.now() - new Date(at).getTime() < 30 * 86_400_000;
         }).length;
-        console.log(`ok   tiktok/${handle} · подписчиков ${page.userInfo?.followerCount ?? '–'} · роликов за 30 дней: ${month}`);
+        console.log(`${month ? 'ok  ' : 'тихо'} tiktok/${handle} · подписчиков ${page.userInfo?.followerCount ?? '–'} · роликов за 30 дней: ${month}`);
       }
     } catch (error) {
       console.log(`нет  ${platform}/${handle} · ${error.message || error}`);
