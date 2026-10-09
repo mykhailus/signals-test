@@ -1,0 +1,52 @@
+{
+  "theme": "обучение AI",
+  "audience": "люди, которые хотят применять AI в работе и жизни",
+  "product": "курсы и лаборатории по применению AI",
+  "language": "ru",
+  "window_days": 7,
+  "top_per_platform": 3,
+  "model": "anthropic/claude-sonnet-5",
+  "tiktok": [
+    {
+      "handle": "rileybrown.ai",
+      "person": "riley brown"
+    },
+    {
+      "handle": "nate.b.jones",
+      "person": "nate b jones"
+    }
+  ],
+  "youtube": [
+    {
+      "handle": "deeplearningai"
+    },
+    {
+      "handle": "TwoMinutePapers"
+    },
+    {
+      "handle": "aiexplained-official"
+    },
+    {
+      "handle": "mreflow"
+    },
+    {
+      "handle": "matthew_berman"
+    },
+    {
+      "handle": "NateBJones",
+      "person": "nate b jones"
+    },
+    {
+      "handle": "futurepedia_io"
+    },
+    {
+      "handle": "mattvidpro"
+    },
+    {
+      "handle": "WesRoth"
+    },
+    {
+      "handle": "AllAboutAI"
+    }
+  ]
+}

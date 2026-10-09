@@ -1,0 +1,75 @@
+name: signals
+
+# Каждый день собирает посты, просит модель разобрать срез, коммитит данные и
+# публикует сайт на GitHub Pages. Запустить вручную: Actions → signals → Run workflow.
+
+on:
+  schedule:
+    - cron: "20 6 * * *" # каждый день, 06:20 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - "signals.config.json"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: signals
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Конфиг читается
+        run: node scripts/check.mjs
+      - name: Сбор TikTok и YouTube
+        run: node scripts/collect.mjs
+      - name: Разбор моделью
+        continue-on-error: true
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/compose.mjs
+      - name: Данные проходят проверки
+        run: node scripts/check.mjs
+      - name: Коммит данных
+        run: |
+          git config user.name "signals-bot"
+          git config user.email "signals-bot@users.noreply.github.com"
+          git add site/data
+          if git diff --cached --quiet; then echo "без изменений"; exit 0; fi
+          git commit -m "signals: срез $(date -u +%Y-%m-%d)"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
+
+  pages:
+    needs: collect
+    if: always() && (needs.collect.result == 'success' || needs.collect.result == 'skipped')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

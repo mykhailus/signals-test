@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>сигналы</title>
+    <meta name="description" content="Что залетело у авторов в вашей теме: самые популярные ролики TikTok и YouTube за неделю." />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='13' fill='none' stroke='%23d92027' stroke-width='3'/><circle cx='16' cy='16' r='4' fill='%23d92027'/></svg>" />
+    <link rel="stylesheet" href="./style.css?v=2" />
+  </head>
+  <body data-view="digest">
+    <header class="top">
+      <div>
+        <p class="eyebrow">сигналы</p>
+        <h1 id="theme">что залетело в вашей теме</h1>
+        <p class="sub" id="stamp">загрузка…</p>
+      </div>
+      <a class="setup-link" href="./setup.html">настроить под свою тему</a>
+    </header>
+
+    <nav class="tabs" aria-label="Разделы">
+      <button class="tab is-active" data-view="digest" type="button">дайджест</button>
+      <button class="tab" data-view="sources" type="button">источники</button>
+    </nav>
+
+    <main>
+      <section class="view is-active" data-panel="digest">
+        <p class="summary" id="summary" hidden></p>
+        <div class="switches">
+          <div class="chips" id="platforms" role="group" aria-label="площадка"></div>
+          <div class="chips" id="layouts" role="group" aria-label="вид">
+            <button type="button" class="chip" data-layout="grid">плитка</button>
+            <button type="button" class="chip" data-layout="radar">радар</button>
+          </div>
+        </div>
+        <div id="digest"></div>
+      </section>
+
+      <section class="view" data-panel="sources">
+        <p class="note">Посты отслеживаемых авторов за окно, по 3 лучших с площадки по числу просмотров, плюс лучший пост последних суток. Один человек – один пост. Числа TikTok и YouTube между собой не сравниваются.</p>
+        <div id="sources"></div>
+      </section>
+    </main>
+
+    <script type="module" src="./app.js?v=2"></script>
+  </body>
+</html>
