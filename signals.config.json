@@ -1,52 +1,23 @@
 {
-  "theme": "обучение AI",
-  "audience": "люди, которые хотят применять AI в работе и жизни",
-  "product": "курсы и лаборатории по применению AI",
+  "theme": "личные финансы",
   "language": "ru",
   "window_days": 7,
   "top_per_platform": 3,
   "model": "anthropic/claude-sonnet-5",
   "tiktok": [
-    {
-      "handle": "rileybrown.ai",
-      "person": "riley brown"
-    },
-    {
-      "handle": "nate.b.jones",
-      "person": "nate b jones"
-    }
+    { "handle": "investfuture", "person": "investfuture" },
+    { "handle": "olgasabitova", "person": "ольга сабитова" },
+    { "handle": "kokorevinvest", "person": "дмитрий кокорев" }
   ],
   "youtube": [
-    {
-      "handle": "deeplearningai"
-    },
-    {
-      "handle": "TwoMinutePapers"
-    },
-    {
-      "handle": "aiexplained-official"
-    },
-    {
-      "handle": "mreflow"
-    },
-    {
-      "handle": "matthew_berman"
-    },
-    {
-      "handle": "NateBJones",
-      "person": "nate b jones"
-    },
-    {
-      "handle": "futurepedia_io"
-    },
-    {
-      "handle": "mattvidpro"
-    },
-    {
-      "handle": "WesRoth"
-    },
-    {
-      "handle": "AllAboutAI"
-    }
+    { "handle": "T_J_youtube" },
+    { "handle": "RationalAnswer" },
+    { "handle": "InvestFutureRu", "person": "investfuture" },
+    { "handle": "olgasabitova", "person": "ольга сабитова" },
+    { "handle": "kokorevinvest", "person": "дмитрий кокорев" },
+    { "handle": "tihiedengi.channel" },
+    { "handle": "NataliCash" },
+    { "handle": "Finley_Rus" },
+    { "handle": "Dengi24" }
   ]
 }
