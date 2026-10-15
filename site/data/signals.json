@@ -1,12 +1,13 @@
 {
- "generated_at": "2026-10-14T12:04:10.673Z",
+ "generated_at": "2026-10-15T11:41:07.877Z",
  "window_days": 7,
  "theme": "личные финансы",
  "digest": [
   "youtube:j4hX44xosgc",
-  "youtube:VUsjE6WFHzY",
+  "youtube:sBhY8khUU2s",
+  "youtube:e-ozeTNDsIM",
   "tiktok:7696135842141637909",
-  "youtube:bgKfEvfFKZk"
+  "youtube:mPhoQurjOHQ"
  ],
  "formats": {
   "shapes": [
@@ -15,7 +16,7 @@
     "count": 1
    }
   ],
-  "of": 4
+  "of": 5
  },
  "source_report": [
   {
@@ -50,27 +51,26 @@
   },
   {
    "source": "youtube/InvestFutureRu",
-   "ok": true,
-   "scanned": 30,
-   "fresh": 5
+   "ok": false,
+   "error": "на странице канала нет списка роликов"
   },
   {
    "source": "youtube/olgasabitova",
    "ok": true,
    "scanned": 30,
-   "fresh": 2
+   "fresh": 1
   },
   {
    "source": "youtube/kokorevinvest",
    "ok": true,
    "scanned": 30,
-   "fresh": 1
+   "fresh": 0
   },
   {
    "source": "youtube/tihiedengi.channel",
    "ok": true,
    "scanned": 20,
-   "fresh": 3
+   "fresh": 2
   },
   {
    "source": "youtube/NataliCash",
@@ -88,7 +88,7 @@
    "source": "youtube/Dengi24",
    "ok": true,
    "scanned": 30,
-   "fresh": 5
+   "fresh": 7
   }
  ],
  "summary": "",
@@ -100,8 +100,8 @@
    "person": "t_j_youtube",
    "url": "https://www.youtube.com/watch?v=j4hX44xosgc",
    "title": "Финансовая грамотность в одном видео за 90 минут: бюджет, долги, подушка и накопления",
-   "posted_at": "2026-10-07T12:03:01.360Z",
-   "popularity": 142000,
+   "posted_at": "2026-10-08T11:40:04.640Z",
+   "popularity": 151000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -115,6 +115,401 @@
    "media": "data/media/youtube-9b70a6b7618a.jpg",
    "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": true
+  },
+  {
+   "id": "youtube:sBhY8khUU2s",
+   "platform": "youtube",
+   "source": "@RationalAnswer",
+   "person": "rationalanswer",
+   "url": "https://www.youtube.com/watch?v=sBhY8khUU2s",
+   "title": "OpenAI сломал математику / Чумной вопрос в России / Маск просит денег на датацентры",
+   "posted_at": "2026-10-12T11:40:10.457Z",
+   "popularity": 29000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-de9497445e56.jpg",
+   "first_seen": "2026-10-12T15:41:08.724Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:e-ozeTNDsIM",
+   "platform": "youtube",
+   "source": "@tihiedengi.channel",
+   "person": "tihiedengi.channel",
+   "url": "https://www.youtube.com/watch?v=e-ozeTNDsIM",
+   "title": "Как тратить деньги на еду меньше и есть лучше: 6 вещей",
+   "posted_at": "2026-10-11T11:40:33.903Z",
+   "popularity": 25000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-85d2ad9238de.jpg",
+   "first_seen": "2026-10-11T13:03:14.871Z",
+   "picked": true
+  },
+  {
+   "id": "tiktok:7696135842141637909",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7696135842141637909",
+   "title": "Почему случился кризис 2008 года? ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! #инвестиции #фондовыйрынок #деньги #личныефинансы #дмитрийкокорев",
+   "posted_at": "2026-10-13T12:57:41.000Z",
+   "popularity": 24300,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 8906
+   },
+   "format": {
+    "kind": "видео",
+    "width": 576,
+    "height": 1024,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-36dd4f1d2e55.jpg",
+   "first_seen": "2026-10-13T14:22:02.706Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:mPhoQurjOHQ",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=mPhoQurjOHQ",
+   "title": "Почему опасно держать все доступные деньги в одном банке? | Деньги 24",
+   "posted_at": "2026-10-14T15:40:54.926Z",
+   "popularity": 1300,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-bbdf05f2f5e1.jpg",
+   "first_seen": "2026-10-15T11:41:07.877Z",
+   "picked": true
+  },
+  {
+   "id": "tiktok:7696574122482257158",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7696574122482257158",
+   "title": "Что выгоднее: покупать квартиру или всю жизнь снимать? ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. Аренда — деньги в никуда",
+   "posted_at": "2026-10-14T17:18:26.000Z",
+   "popularity": 5468,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 8906
+   },
+   "format": {
+    "kind": "видео",
+    "width": 576,
+    "height": 1024,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-6661b32b919f.jpg",
+   "first_seen": "2026-10-15T11:41:07.877Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7695823816437648646",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7695823816437648646",
+   "title": "Сколько вложить в ОФЗ, чтобы больше не работать? ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. 64 тысячи в месяц — это медиан",
+   "posted_at": "2026-10-12T16:46:52.000Z",
+   "popularity": 388,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 8906
+   },
+   "format": {
+    "kind": "видео",
+    "width": 576,
+    "height": 1024,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-583cc7fdf11a.jpg",
+   "first_seen": "2026-10-13T14:22:02.706Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7694702515086003477",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7694702515086003477",
+   "title": "Сколько Россия платит по своим долгам?  ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. По мировым меркам долг России выглядит ",
+   "posted_at": "2026-10-09T16:15:39.000Z",
+   "popularity": 4207,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 8906
+   },
+   "format": {
+    "kind": "видео",
+    "width": 576,
+    "height": 1024,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-d4988781d40e.jpg",
+   "first_seen": "2026-10-10T12:42:25.060Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:fOjrN9aektk",
+   "platform": "youtube",
+   "source": "@T_J_youtube",
+   "person": "t_j_youtube",
+   "url": "https://www.youtube.com/watch?v=fOjrN9aektk",
+   "title": "Бесплатная медицина дорого обходится",
+   "posted_at": "2026-10-12T11:40:02.113Z",
+   "popularity": 71000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-ef4bd664d2f9.jpg",
+   "first_seen": "2026-10-12T15:41:08.724Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:L3wgpFwy3Js",
+   "platform": "youtube",
+   "source": "@olgasabitova",
+   "person": "ольга сабитова",
+   "url": "https://www.youtube.com/watch?v=L3wgpFwy3Js",
+   "title": "Ты еще не УПУСТИЛ момент, чтобы стать БОГАТЫМ! Сколько денег должно быть у КАЖДОГО в 20, 30 и 40 лет",
+   "posted_at": "2026-10-09T11:40:20.354Z",
+   "popularity": 16000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-52059e9d28a7.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:r9Iw-lHqkPw",
+   "platform": "youtube",
+   "source": "@tihiedengi.channel",
+   "person": "tihiedengi.channel",
+   "url": "https://www.youtube.com/watch?v=r9Iw-lHqkPw",
+   "title": "Как объяснить ребёнку цену денег: 6 вещей",
+   "posted_at": "2026-10-09T11:40:35.664Z",
+   "popularity": 3400,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-0cdadb283fe8.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:dO3EG6CyECg",
+   "platform": "youtube",
+   "source": "@NataliCash",
+   "person": "natalicash",
+   "url": "https://www.youtube.com/watch?v=dO3EG6CyECg",
+   "title": "#225 второе распределение октября 44000р / наконец купили Каско и снова долги",
+   "posted_at": "2026-10-12T11:40:43.371Z",
+   "popularity": 643,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-f79bb5257d7b.jpg",
+   "first_seen": "2026-10-12T15:41:08.724Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:TWCKp3xQw9U",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=TWCKp3xQw9U",
+   "title": "Скидка на квартиру: сравните цены при разных способах оплаты | Деньги 24",
+   "posted_at": "2026-10-15T07:40:53.239Z",
+   "popularity": 431,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-48a9cbe76bc0.jpg",
+   "first_seen": "2026-10-15T11:41:07.877Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:Zc0u6S0A1KA",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=Zc0u6S0A1KA",
+   "title": "Дизель для США: счёт выставим, а что получим ещё? | Деньги 24",
+   "posted_at": "2026-10-14T11:40:56.913Z",
+   "popularity": 1500,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-9320fa7b978c.jpg",
+   "first_seen": "2026-10-14T12:04:10.673Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:bgKfEvfFKZk",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=bgKfEvfFKZk",
+   "title": "Стоит ли менять вклад на гособлигации ради 17% годовых? | Деньги 24",
+   "posted_at": "2026-10-14T11:40:58.967Z",
+   "popularity": 1500,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-f2d6a6ac64cd.jpg",
+   "first_seen": "2026-10-14T12:04:10.673Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:mESPUK0oja8",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=mESPUK0oja8",
+   "title": "Период охлаждения | Деньги 24 | Финансовая грамотность",
+   "posted_at": "2026-10-11T11:41:00.759Z",
+   "popularity": 2000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-9162923d3610.jpg",
+   "first_seen": "2026-10-10T12:42:25.060Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:o4IKsDvH_lA",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=o4IKsDvH_lA",
+   "title": "Новые налоги и санкции | Деньги 24",
+   "posted_at": "2026-10-10T11:41:02.815Z",
+   "popularity": 11000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-b883cbeb6198.jpg",
+   "first_seen": "2026-10-10T12:42:25.060Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:K1k57GHSc4A",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=K1k57GHSc4A",
+   "title": "Банковские страхования | Деньги 24 | Финансовая грамотность",
+   "posted_at": "2026-10-09T11:41:04.515Z",
+   "popularity": 2200,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-7e92bb7c442f.jpg",
+   "first_seen": "2026-10-09T13:10:12.741Z",
+   "picked": false
   },
   {
    "id": "youtube:VUsjE6WFHzY",
@@ -137,171 +532,6 @@
    },
    "media": "data/media/youtube-ec4e8e1c9e96.jpg",
    "first_seen": "2026-10-14T12:04:10.673Z",
-   "picked": true
-  },
-  {
-   "id": "tiktok:7696135842141637909",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7696135842141637909",
-   "title": "Почему случился кризис 2008 года? ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! #инвестиции #фондовыйрынок #деньги #личныефинансы #дмитрийкокорев",
-   "posted_at": "2026-10-13T12:57:41.000Z",
-   "popularity": 19400,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 8848
-   },
-   "format": {
-    "kind": "видео",
-    "width": 576,
-    "height": 1024,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-36dd4f1d2e55.jpg",
-   "first_seen": "2026-10-13T14:22:02.706Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:bgKfEvfFKZk",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=bgKfEvfFKZk",
-   "title": "Стоит ли менять вклад на гособлигации ради 17% годовых? | Деньги 24",
-   "posted_at": "2026-10-13T19:04:02.075Z",
-   "popularity": 1100,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-f2d6a6ac64cd.jpg",
-   "first_seen": "2026-10-14T12:04:10.673Z",
-   "picked": true
-  },
-  {
-   "id": "tiktok:7695823816437648646",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7695823816437648646",
-   "title": "Сколько вложить в ОФЗ, чтобы больше не работать? ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. 64 тысячи в месяц — это медиан",
-   "posted_at": "2026-10-12T16:46:52.000Z",
-   "popularity": 342,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 8848
-   },
-   "format": {
-    "kind": "видео",
-    "width": 576,
-    "height": 1024,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-583cc7fdf11a.jpg",
-   "first_seen": "2026-10-13T14:22:02.706Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7694702515086003477",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7694702515086003477",
-   "title": "Сколько Россия платит по своим долгам?  ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. По мировым меркам долг России выглядит ",
-   "posted_at": "2026-10-09T16:15:39.000Z",
-   "popularity": 4095,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 8848
-   },
-   "format": {
-    "kind": "видео",
-    "width": 576,
-    "height": 1024,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-d4988781d40e.jpg",
-   "first_seen": "2026-10-10T12:42:25.060Z",
-   "picked": true
-  },
-  {
-   "id": "tiktok:7693970389533347079",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7693970389533347079",
-   "title": "Почему рубль сейчас СЛАБЕЕТ?  ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. Разбираю, почему рубль сейчас слабеет и какую рол",
-   "posted_at": "2026-10-07T16:54:38.000Z",
-   "popularity": 1770,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 8848
-   },
-   "format": {
-    "kind": "видео",
-    "width": 576,
-    "height": 1024,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-d7bed717175f.jpg",
-   "first_seen": "2026-10-09T13:10:12.741Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:fOjrN9aektk",
-   "platform": "youtube",
-   "source": "@T_J_youtube",
-   "person": "t_j_youtube",
-   "url": "https://www.youtube.com/watch?v=fOjrN9aektk",
-   "title": "Бесплатная медицина дорого обходится",
-   "posted_at": "2026-10-12T12:02:59.584Z",
-   "popularity": 61000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-ef4bd664d2f9.jpg",
-   "first_seen": "2026-10-12T15:41:08.724Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:sBhY8khUU2s",
-   "platform": "youtube",
-   "source": "@RationalAnswer",
-   "person": "rationalanswer",
-   "url": "https://www.youtube.com/watch?v=sBhY8khUU2s",
-   "title": "OpenAI сломал математику / Чумной вопрос в России / Маск просит денег на датацентры",
-   "posted_at": "2026-10-12T12:03:07.153Z",
-   "popularity": 25000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-de9497445e56.jpg",
-   "first_seen": "2026-10-12T15:41:08.724Z",
    "picked": true
   },
   {
@@ -397,29 +627,6 @@
    "picked": false
   },
   {
-   "id": "youtube:L3wgpFwy3Js",
-   "platform": "youtube",
-   "source": "@olgasabitova",
-   "person": "ольга сабитова",
-   "url": "https://www.youtube.com/watch?v=L3wgpFwy3Js",
-   "title": "Ты еще не УПУСТИЛ момент, чтобы стать БОГАТЫМ! Сколько денег должно быть у КАЖДОГО в 20, 30 и 40 лет",
-   "posted_at": "2026-10-09T12:03:28.073Z",
-   "popularity": 16000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-52059e9d28a7.jpg",
-   "first_seen": "2026-10-09T13:10:12.741Z",
-   "picked": false
-  },
-  {
    "id": "youtube:1qq76Id8pnw",
    "platform": "youtube",
    "source": "@olgasabitova",
@@ -441,213 +648,6 @@
    "media": "data/media/youtube-ed7488fc5e9c.jpg",
    "first_seen": "2026-10-09T13:10:12.741Z",
    "picked": true
-  },
-  {
-   "id": "youtube:_VzWfbQY9s0",
-   "platform": "youtube",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.youtube.com/watch?v=_VzWfbQY9s0",
-   "title": "На российском рынке есть акции, о которых мечтают даже американцы! Даю список этих акций!",
-   "posted_at": "2026-10-07T12:03:35.682Z",
-   "popularity": 56000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-3ba67094f387.jpg",
-   "first_seen": "2026-10-09T13:10:12.741Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:e-ozeTNDsIM",
-   "platform": "youtube",
-   "source": "@tihiedengi.channel",
-   "person": "tihiedengi.channel",
-   "url": "https://www.youtube.com/watch?v=e-ozeTNDsIM",
-   "title": "Как тратить деньги на еду меньше и есть лучше: 6 вещей",
-   "posted_at": "2026-10-11T12:03:41.238Z",
-   "popularity": 22000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-85d2ad9238de.jpg",
-   "first_seen": "2026-10-11T13:03:14.871Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:r9Iw-lHqkPw",
-   "platform": "youtube",
-   "source": "@tihiedengi.channel",
-   "person": "tihiedengi.channel",
-   "url": "https://www.youtube.com/watch?v=r9Iw-lHqkPw",
-   "title": "Как объяснить ребёнку цену денег: 6 вещей",
-   "posted_at": "2026-10-09T12:03:42.968Z",
-   "popularity": 3300,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-0cdadb283fe8.jpg",
-   "first_seen": "2026-10-09T13:10:12.741Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:VQ1gqCoif0Y",
-   "platform": "youtube",
-   "source": "@tihiedengi.channel",
-   "person": "tihiedengi.channel",
-   "url": "https://www.youtube.com/watch?v=VQ1gqCoif0Y",
-   "title": "Как выбраться из рассрочек, 6 вещей, которые это объясняют",
-   "posted_at": "2026-10-07T12:03:44.694Z",
-   "popularity": 389,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-15bff36ac3a1.jpg",
-   "first_seen": "2026-10-09T13:10:12.741Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:dO3EG6CyECg",
-   "platform": "youtube",
-   "source": "@NataliCash",
-   "person": "natalicash",
-   "url": "https://www.youtube.com/watch?v=dO3EG6CyECg",
-   "title": "#225 второе распределение октября 44000р / наконец купили Каско и снова долги",
-   "posted_at": "2026-10-12T12:03:50.478Z",
-   "popularity": 628,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-f79bb5257d7b.jpg",
-   "first_seen": "2026-10-12T15:41:08.724Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:Zc0u6S0A1KA",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=Zc0u6S0A1KA",
-   "title": "Дизель для США: счёт выставим, а что получим ещё? | Деньги 24",
-   "posted_at": "2026-10-14T09:04:00.094Z",
-   "popularity": 293,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-9320fa7b978c.jpg",
-   "first_seen": "2026-10-14T12:04:10.673Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:mESPUK0oja8",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=mESPUK0oja8",
-   "title": "Период охлаждения | Деньги 24 | Финансовая грамотность",
-   "posted_at": "2026-10-10T12:04:03.764Z",
-   "popularity": 1900,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-9162923d3610.jpg",
-   "first_seen": "2026-10-10T12:42:25.060Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:o4IKsDvH_lA",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=o4IKsDvH_lA",
-   "title": "Новые налоги и санкции | Деньги 24",
-   "posted_at": "2026-10-10T12:04:05.561Z",
-   "popularity": 10000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-b883cbeb6198.jpg",
-   "first_seen": "2026-10-10T12:42:25.060Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:K1k57GHSc4A",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=K1k57GHSc4A",
-   "title": "Банковские страхования | Деньги 24 | Финансовая грамотность",
-   "posted_at": "2026-10-09T12:04:07.351Z",
-   "popularity": 2200,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-7e92bb7c442f.jpg",
-   "first_seen": "2026-10-09T13:10:12.741Z",
-   "picked": false
   },
   {
    "id": "tiktok:7693239138274921746",
