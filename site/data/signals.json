@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-26T13:16:23.099Z",
+ "generated_at": "2026-10-27T12:24:06.790Z",
  "window_days": 7,
  "theme": "личные финансы",
  "digest": [
   "tiktok:7698779716865609012",
   "youtube:I7v3Xq26ItE",
   "youtube:wvBiMICn19k",
-  "youtube:Mt7vZZO3kg0",
-  "youtube:spiV_zjj3Is"
+  "youtube:spiV_zjj3Is",
+  "youtube:B4Uv53Sp3YQ"
  ],
  "formats": {
   "shapes": [
@@ -47,13 +47,13 @@
    "source": "youtube/RationalAnswer",
    "ok": true,
    "scanned": 30,
-   "fresh": 2
+   "fresh": 1
   },
   {
    "source": "youtube/InvestFutureRu",
    "ok": true,
    "scanned": 30,
-   "fresh": 4
+   "fresh": 6
   },
   {
    "source": "youtube/olgasabitova",
@@ -77,7 +77,7 @@
    "source": "youtube/NataliCash",
    "ok": true,
    "scanned": 30,
-   "fresh": 2
+   "fresh": 1
   },
   {
    "source": "youtube/Finley_Rus",
@@ -102,10 +102,10 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7698779716865609012",
    "title": "МММ была не так страшна, как ЭТА пирамида! ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! #деньги #инвестиции #финансы #фондовыйрынок #финансоваяграмотность #личные",
    "posted_at": "2026-10-20T15:57:16.000Z",
-   "popularity": 137000,
+   "popularity": 138700,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 9334
+    "followers": 9382
    },
    "format": {
     "kind": "видео",
@@ -125,8 +125,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=I7v3Xq26ItE",
    "title": "Банки будут проверять телефоны и блокировать переводы: что изменится с 1 марта",
-   "posted_at": "2026-10-24T13:15:11.984Z",
-   "popularity": 70000,
+   "posted_at": "2026-10-24T12:23:08.510Z",
+   "popularity": 77000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -148,8 +148,8 @@
    "person": "ольга сабитова",
    "url": "https://www.youtube.com/watch?v=wvBiMICn19k",
    "title": "Хватит КОРМИТЬ жадную НАЛОГОВУЮ! / ПОСЛЕДНИЙ шанс СПАСТИ свои деньги от нового РОСТА цен",
-   "posted_at": "2026-10-21T13:15:26.403Z",
-   "popularity": 50000,
+   "posted_at": "2026-10-21T12:23:20.006Z",
+   "popularity": 53000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -161,6 +161,562 @@
     "height": 720
    },
    "media": "data/media/youtube-e0a8a661409b.jpg",
+   "first_seen": "2026-10-21T12:01:29.823Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:spiV_zjj3Is",
+   "platform": "youtube",
+   "source": "@T_J_youtube",
+   "person": "t_j_youtube",
+   "url": "https://www.youtube.com/watch?v=spiV_zjj3Is",
+   "title": "Почему 22 миллиона россиян запретили себе брать кредиты",
+   "posted_at": "2026-10-26T12:22:49.281Z",
+   "popularity": 47000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-f054fd6d18c2.jpg",
+   "first_seen": "2026-10-26T13:16:23.099Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:B4Uv53Sp3YQ",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=B4Uv53Sp3YQ",
+   "title": "Ставку ЦБ не снизили: на что рассчитывать заёмщику | Деньги 24",
+   "posted_at": "2026-10-26T18:23:48.120Z",
+   "popularity": 554,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-87028fa255ca.jpg",
+   "first_seen": "2026-10-27T12:24:06.790Z",
+   "picked": true
+  },
+  {
+   "id": "tiktok:7701041813976599829",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7701041813976599829",
+   "title": "Каршеринг или СВОЯ машина: что выгоднее? ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. Многие уверены, что своя машина всегда",
+   "posted_at": "2026-10-26T18:15:22.000Z",
+   "popularity": 1599,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 9382
+   },
+   "format": {
+    "kind": "видео",
+    "width": 576,
+    "height": 1024,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-354039994c1c.jpg",
+   "first_seen": "2026-10-27T12:24:06.790Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7699879571759369492",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7699879571759369492",
+   "title": "Цены в Москве в 2016 и 2026: насколько всё ПОДОРОЖАЛО?  ⚡Всё об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. Сравниваю, сколько стоили п",
+   "posted_at": "2026-10-23T15:05:16.000Z",
+   "popularity": 5549,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 9382
+   },
+   "format": {
+    "kind": "видео",
+    "width": 576,
+    "height": 1024,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-3ae5bcff3d87.jpg",
+   "first_seen": "2026-10-24T11:14:16.927Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7699550830365592839",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7699550830365592839",
+   "title": "Что будет, если экономика ПЕРЕСТАНЕТ расти? ⚡️Всё об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! А как вы думаете, может ли экономика жить без постоянного роста? Пишите в ко",
+   "posted_at": "2026-10-22T17:49:35.000Z",
+   "popularity": 2157,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 9382
+   },
+   "format": {
+    "kind": "видео",
+    "width": 576,
+    "height": 1024,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-2a6c1ab0176c.jpg",
+   "first_seen": "2026-10-23T11:49:20.149Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7699169044200475905",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7699169044200475905",
+   "title": "Китайские акции – это ловушка? ⚡️Всё об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! #деньги #инвестиции #финансы #фондовыйрынок #финансоваяграмотность #личныефинансы #дмитри",
+   "posted_at": "2026-10-21T17:08:04.000Z",
+   "popularity": 2030,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 9382
+   },
+   "format": {
+    "kind": "видео",
+    "width": 576,
+    "height": 1024,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-99122e7e5458.jpg",
+   "first_seen": "2026-10-22T12:03:57.412Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:TkPsseHfhV0",
+   "platform": "youtube",
+   "source": "@RationalAnswer",
+   "person": "rationalanswer",
+   "url": "https://www.youtube.com/watch?v=TkPsseHfhV0",
+   "title": "Черный октябрь для интернета / ЦБ сохранил ставку / Илон Маск раздает акции",
+   "posted_at": "2026-10-26T12:22:55.177Z",
+   "popularity": 15000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-22ddc4ce9a1f.jpg",
+   "first_seen": "2026-10-26T13:16:23.099Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:8smLo4-fZGA",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=8smLo4-fZGA",
+   "title": "100 ТЫСЯЧ — НИЩЕТА? Сколько нужно зарабатывать в 2026 году?",
+   "posted_at": "2026-10-27T10:23:02.826Z",
+   "popularity": 3700,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-a5ed67667d68.jpg",
+   "first_seen": "2026-10-27T12:24:06.790Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:A-14awnV1GY",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=A-14awnV1GY",
+   "title": "Крупный бизнес скупает облигации, несмотря на дефолты. Они что-то знают?",
+   "posted_at": "2026-10-26T17:23:04.816Z",
+   "popularity": 47000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-580c4e33a5e7.jpg",
+   "first_seen": "2026-10-27T12:24:06.790Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:lFB0Gc7XHqc",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=lFB0Gc7XHqc",
+   "title": "Налог на вклады: сколько заберут с процентов и что предлагают изменить?",
+   "posted_at": "2026-10-24T12:23:06.582Z",
+   "popularity": 46000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-1aa2ea922fbd.jpg",
+   "first_seen": "2026-10-24T11:14:16.927Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:iEO_RB8mJFM",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=iEO_RB8mJFM",
+   "title": "Доллар и евро резко УПАЛИ: покупать ли валюту прямо сейчас?",
+   "posted_at": "2026-10-22T12:23:10.389Z",
+   "popularity": 47000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-a66680bf5a9f.jpg",
+   "first_seen": "2026-10-22T12:03:57.412Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:kMf3Ub0igr8",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=kMf3Ub0igr8",
+   "title": "Западные рынки падают: что происходит в мировой экономике",
+   "posted_at": "2026-10-20T12:23:12.201Z",
+   "popularity": 32000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-1c22e0871956.jpg",
+   "first_seen": "2026-10-20T11:49:35.230Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:kh8iG4ra5UY",
+   "platform": "youtube",
+   "source": "@olgasabitova",
+   "person": "ольга сабитова",
+   "url": "https://www.youtube.com/watch?v=kh8iG4ra5UY",
+   "title": "НЕ БЕРИ ИПОТЕКУ, пока не посмотришь ЭТО! / Главная ЛАЗЕЙКА, о которой молчат банки",
+   "posted_at": "2026-10-23T12:23:18.157Z",
+   "popularity": 16000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-d01a01bec397.jpg",
+   "first_seen": "2026-10-23T11:49:20.149Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:ILGS0-qXLBg",
+   "platform": "youtube",
+   "source": "@NataliCash",
+   "person": "natalicash",
+   "url": "https://www.youtube.com/watch?v=ILGS0-qXLBg",
+   "title": "#228 четвёртое распределение октября 36650р / спасибо, что Вы со мной 💜💜💜",
+   "posted_at": "2026-10-25T12:23:33.450Z",
+   "popularity": 813,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-ec249ec4c918.jpg",
+   "first_seen": "2026-10-25T11:44:16.685Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:i5LNc8wWQ-M",
+   "platform": "youtube",
+   "source": "@Finley_Rus",
+   "person": "finley_rus",
+   "url": "https://www.youtube.com/watch?v=i5LNc8wWQ-M",
+   "title": "ПРАВИЛА ТИХИХ ДЕНЕГ | Громкая бедность: как чужое мнение ворует твои деньги (и годы жизни)",
+   "posted_at": "2026-10-21T12:23:40.836Z",
+   "popularity": 1800,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-bab66505fdf6.jpg",
+   "first_seen": "2026-10-21T12:01:29.823Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:CouGJSPAJRA",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=CouGJSPAJRA",
+   "title": "Почему ЦБ сохраняет 14% и что мешает снижению ставки? | Деньги 24",
+   "posted_at": "2026-10-27T08:23:46.423Z",
+   "popularity": 210,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-fae89a284266.jpg",
+   "first_seen": "2026-10-27T12:24:06.790Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:Buq1SFJvfdo",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=Buq1SFJvfdo",
+   "title": "Можно ли снизить платёж по ипотеке с высокой ставкой? | Деньги 24",
+   "posted_at": "2026-10-26T12:23:50.020Z",
+   "popularity": 643,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-6bca962ab563.jpg",
+   "first_seen": "2026-10-26T13:16:23.099Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:CBPNO2OXlws",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=CBPNO2OXlws",
+   "title": "ЦБ: без сюрпризов | Деньги 24",
+   "posted_at": "2026-10-24T12:23:51.800Z",
+   "popularity": 9500,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-19c826073728.jpg",
+   "first_seen": "2026-10-24T11:14:16.927Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:g5DUMbsdcus",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=g5DUMbsdcus",
+   "title": "Рубль укрепился надолго? От чего зависит курс | Деньги 24",
+   "posted_at": "2026-10-23T12:23:53.909Z",
+   "popularity": 12000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-9b4ff82a4b74.jpg",
+   "first_seen": "2026-10-23T11:49:20.149Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:eAbGEmARTT0",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=eAbGEmARTT0",
+   "title": "Онлайн-игры. Как защититься от мошенников? | Финансовая грамотность",
+   "posted_at": "2026-10-23T12:23:55.843Z",
+   "popularity": 931,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-1af52e2e16ff.jpg",
+   "first_seen": "2026-10-23T11:49:20.149Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:wWJnMTDJv4Y",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=wWJnMTDJv4Y",
+   "title": "Российский сыр дешевеет в опте: что сравнить в магазине? | Деньги 24",
+   "posted_at": "2026-10-22T12:23:57.756Z",
+   "popularity": 1100,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-03f5ffc6c74f.jpg",
+   "first_seen": "2026-10-22T12:03:57.412Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:ggr0-IyJ71c",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=ggr0-IyJ71c",
+   "title": "Выплаты, проезд и ЖКХ: что Москва планирует на 2027 год? | Деньги 24",
+   "posted_at": "2026-10-22T12:23:59.546Z",
+   "popularity": 858,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-e6848998b3a2.jpg",
+   "first_seen": "2026-10-22T12:03:57.412Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:XIW3Nd-hug0",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=XIW3Nd-hug0",
+   "title": "Потери от мошенников снижаются, но квартиры всё ещё под угрозой | Деньги 24",
+   "posted_at": "2026-10-21T12:24:01.577Z",
+   "popularity": 696,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-a0e5b5857475.jpg",
+   "first_seen": "2026-10-21T12:01:29.823Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:ywbEImtmOLw",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=ywbEImtmOLw",
+   "title": "Потери от мошенников снижаются, но квартиры всё ещё под угрозой | Деньги 24",
+   "posted_at": "2026-10-21T12:24:03.467Z",
+   "popularity": 1200,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-f19bb84b44e9.jpg",
    "first_seen": "2026-10-21T12:01:29.823Z",
    "picked": true
   },
@@ -185,493 +741,6 @@
    },
    "media": "data/media/youtube-82b2bbc3c945.jpg",
    "first_seen": "2026-10-19T13:33:12.362Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:spiV_zjj3Is",
-   "platform": "youtube",
-   "source": "@T_J_youtube",
-   "person": "t_j_youtube",
-   "url": "https://www.youtube.com/watch?v=spiV_zjj3Is",
-   "title": "Почему 22 миллиона россиян запретили себе брать кредиты",
-   "posted_at": "2026-10-26T09:14:56.164Z",
-   "popularity": 11000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-f054fd6d18c2.jpg",
-   "first_seen": "2026-10-26T13:16:23.099Z",
-   "picked": true
-  },
-  {
-   "id": "tiktok:7699879571759369492",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7699879571759369492",
-   "title": "Цены в Москве в 2016 и 2026: насколько всё ПОДОРОЖАЛО?  ⚡Всё об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. Сравниваю, сколько стоили п",
-   "posted_at": "2026-10-23T15:05:16.000Z",
-   "popularity": 5332,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 9334
-   },
-   "format": {
-    "kind": "видео",
-    "width": 576,
-    "height": 1024,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-3ae5bcff3d87.jpg",
-   "first_seen": "2026-10-24T11:14:16.927Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7699550830365592839",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7699550830365592839",
-   "title": "Что будет, если экономика ПЕРЕСТАНЕТ расти? ⚡️Всё об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! А как вы думаете, может ли экономика жить без постоянного роста? Пишите в ко",
-   "posted_at": "2026-10-22T17:49:35.000Z",
-   "popularity": 2067,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 9334
-   },
-   "format": {
-    "kind": "видео",
-    "width": 576,
-    "height": 1024,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-2a6c1ab0176c.jpg",
-   "first_seen": "2026-10-23T11:49:20.149Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7699169044200475905",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7699169044200475905",
-   "title": "Китайские акции – это ловушка? ⚡️Всё об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! #деньги #инвестиции #финансы #фондовыйрынок #финансоваяграмотность #личныефинансы #дмитри",
-   "posted_at": "2026-10-21T17:08:04.000Z",
-   "popularity": 1988,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 9334
-   },
-   "format": {
-    "kind": "видео",
-    "width": 576,
-    "height": 1024,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-99122e7e5458.jpg",
-   "first_seen": "2026-10-22T12:03:57.412Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7698397113671027988",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7698397113671027988",
-   "title": "Простой парень против инвестфонда! ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! #деньги #инвестиции #финансы #фондовыйрынок #финансоваяграмотность #личныефинансы ",
-   "posted_at": "2026-10-19T15:12:35.000Z",
-   "popularity": 440,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 9334
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-c8f8921031ad.jpg",
-   "first_seen": "2026-10-22T12:03:57.412Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:TkPsseHfhV0",
-   "platform": "youtube",
-   "source": "@RationalAnswer",
-   "person": "rationalanswer",
-   "url": "https://www.youtube.com/watch?v=TkPsseHfhV0",
-   "title": "Черный октябрь для интернета / ЦБ сохранил ставку / Илон Маск раздает акции",
-   "posted_at": "2026-10-26T06:15:02.008Z",
-   "popularity": 7100,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-22ddc4ce9a1f.jpg",
-   "first_seen": "2026-10-26T13:16:23.099Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:lFB0Gc7XHqc",
-   "platform": "youtube",
-   "source": "@InvestFutureRu",
-   "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=lFB0Gc7XHqc",
-   "title": "Налог на вклады: сколько заберут с процентов и что предлагают изменить?",
-   "posted_at": "2026-10-24T13:15:10.183Z",
-   "popularity": 43000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-1aa2ea922fbd.jpg",
-   "first_seen": "2026-10-24T11:14:16.927Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:iEO_RB8mJFM",
-   "platform": "youtube",
-   "source": "@InvestFutureRu",
-   "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=iEO_RB8mJFM",
-   "title": "Доллар и евро резко УПАЛИ: покупать ли валюту прямо сейчас?",
-   "posted_at": "2026-10-22T13:15:13.867Z",
-   "popularity": 46000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-a66680bf5a9f.jpg",
-   "first_seen": "2026-10-22T12:03:57.412Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:kMf3Ub0igr8",
-   "platform": "youtube",
-   "source": "@InvestFutureRu",
-   "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=kMf3Ub0igr8",
-   "title": "Западные рынки падают: что происходит в мировой экономике",
-   "posted_at": "2026-10-20T13:15:16.020Z",
-   "popularity": 32000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-1c22e0871956.jpg",
-   "first_seen": "2026-10-20T11:49:35.230Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:kh8iG4ra5UY",
-   "platform": "youtube",
-   "source": "@olgasabitova",
-   "person": "ольга сабитова",
-   "url": "https://www.youtube.com/watch?v=kh8iG4ra5UY",
-   "title": "НЕ БЕРИ ИПОТЕКУ, пока не посмотришь ЭТО! / Главная ЛАЗЕЙКА, о которой молчат банки",
-   "posted_at": "2026-10-23T13:15:24.548Z",
-   "popularity": 15000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-d01a01bec397.jpg",
-   "first_seen": "2026-10-23T11:49:20.149Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:ILGS0-qXLBg",
-   "platform": "youtube",
-   "source": "@NataliCash",
-   "person": "natalicash",
-   "url": "https://www.youtube.com/watch?v=ILGS0-qXLBg",
-   "title": "#228 четвёртое распределение октября 36650р / спасибо, что Вы со мной 💜💜💜",
-   "posted_at": "2026-10-25T13:15:47.491Z",
-   "popularity": 735,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-ec249ec4c918.jpg",
-   "first_seen": "2026-10-25T11:44:16.685Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:gx5sYgCFCPw",
-   "platform": "youtube",
-   "source": "@NataliCash",
-   "person": "natalicash",
-   "url": "https://www.youtube.com/watch?v=gx5sYgCFCPw",
-   "title": "#226 третье распределение октября  24750р / первые подарочки на др",
-   "posted_at": "2026-10-19T13:15:50.140Z",
-   "popularity": 1200,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-1d2c77eb86b1.jpg",
-   "first_seen": "2026-10-19T13:33:12.362Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:i5LNc8wWQ-M",
-   "platform": "youtube",
-   "source": "@Finley_Rus",
-   "person": "finley_rus",
-   "url": "https://www.youtube.com/watch?v=i5LNc8wWQ-M",
-   "title": "ПРАВИЛА ТИХИХ ДЕНЕГ | Громкая бедность: как чужое мнение ворует твои деньги (и годы жизни)",
-   "posted_at": "2026-10-21T13:15:56.402Z",
-   "popularity": 1800,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-bab66505fdf6.jpg",
-   "first_seen": "2026-10-21T12:01:29.823Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:Buq1SFJvfdo",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=Buq1SFJvfdo",
-   "title": "Можно ли снизить платёж по ипотеке с высокой ставкой? | Деньги 24",
-   "posted_at": "2026-10-26T11:16:02.675Z",
-   "popularity": 64,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-6bca962ab563.jpg",
-   "first_seen": "2026-10-26T13:16:23.099Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:CBPNO2OXlws",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=CBPNO2OXlws",
-   "title": "ЦБ: без сюрпризов | Деньги 24",
-   "posted_at": "2026-10-24T13:16:04.688Z",
-   "popularity": 9000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-19c826073728.jpg",
-   "first_seen": "2026-10-24T11:14:16.927Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:g5DUMbsdcus",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=g5DUMbsdcus",
-   "title": "Рубль укрепился надолго? От чего зависит курс | Деньги 24",
-   "posted_at": "2026-10-23T13:16:06.483Z",
-   "popularity": 11000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-9b4ff82a4b74.jpg",
-   "first_seen": "2026-10-23T11:49:20.149Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:eAbGEmARTT0",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=eAbGEmARTT0",
-   "title": "Онлайн-игры. Как защититься от мошенников? | Финансовая грамотность",
-   "posted_at": "2026-10-23T13:16:08.343Z",
-   "popularity": 907,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-1af52e2e16ff.jpg",
-   "first_seen": "2026-10-23T11:49:20.149Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:wWJnMTDJv4Y",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=wWJnMTDJv4Y",
-   "title": "Российский сыр дешевеет в опте: что сравнить в магазине? | Деньги 24",
-   "posted_at": "2026-10-22T13:16:10.386Z",
-   "popularity": 1100,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-03f5ffc6c74f.jpg",
-   "first_seen": "2026-10-22T12:03:57.412Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:ggr0-IyJ71c",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=ggr0-IyJ71c",
-   "title": "Выплаты, проезд и ЖКХ: что Москва планирует на 2027 год? | Деньги 24",
-   "posted_at": "2026-10-22T13:16:12.198Z",
-   "popularity": 851,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-e6848998b3a2.jpg",
-   "first_seen": "2026-10-22T12:03:57.412Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:XIW3Nd-hug0",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=XIW3Nd-hug0",
-   "title": "Потери от мошенников снижаются, но квартиры всё ещё под угрозой | Деньги 24",
-   "posted_at": "2026-10-21T13:16:14.113Z",
-   "popularity": 696,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-a0e5b5857475.jpg",
-   "first_seen": "2026-10-21T12:01:29.823Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:ywbEImtmOLw",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=ywbEImtmOLw",
-   "title": "Потери от мошенников снижаются, но квартиры всё ещё под угрозой | Деньги 24",
-   "posted_at": "2026-10-21T13:16:16.096Z",
-   "popularity": 1200,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-f19bb84b44e9.jpg",
-   "first_seen": "2026-10-21T12:01:29.823Z",
    "picked": true
   },
   {
