@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-31T12:45:34.981Z",
+ "generated_at": "2026-11-01T13:36:02.023Z",
  "window_days": 7,
  "theme": "личные финансы",
  "digest": [
-  "youtube:I7v3Xq26ItE",
+  "youtube:8smLo4-fZGA",
   "youtube:spiV_zjj3Is",
   "youtube:LkP-o7qw7EA",
   "tiktok:7702156067941158162",
-  "youtube:c1Ytq2yXRaI"
+  "youtube:Cm3y6lX0I_E"
  ],
  "formats": {
   "shapes": [
@@ -27,9 +27,8 @@
   },
   {
    "source": "tiktok/olgasabitova",
-   "ok": true,
-   "scanned": 0,
-   "fresh": 0
+   "ok": false,
+   "error": "embed HTTP 429"
   },
   {
    "source": "tiktok/kokorevinvest",
@@ -53,7 +52,7 @@
    "source": "youtube/InvestFutureRu",
    "ok": true,
    "scanned": 30,
-   "fresh": 6
+   "fresh": 5
   },
   {
    "source": "youtube/olgasabitova",
@@ -77,7 +76,7 @@
    "source": "youtube/NataliCash",
    "ok": true,
    "scanned": 30,
-   "fresh": 1
+   "fresh": 2
   },
   {
    "source": "youtube/Finley_Rus",
@@ -89,20 +88,20 @@
    "source": "youtube/Dengi24",
    "ok": true,
    "scanned": 30,
-   "fresh": 10
+   "fresh": 9
   }
  ],
  "summary": "",
  "signals": [
   {
-   "id": "youtube:I7v3Xq26ItE",
+   "id": "youtube:8smLo4-fZGA",
    "platform": "youtube",
    "source": "@InvestFutureRu",
    "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=I7v3Xq26ItE",
-   "title": "Банки будут проверять телефоны и блокировать переводы: что изменится с 1 марта",
-   "posted_at": "2026-10-24T12:44:36.953Z",
-   "popularity": 91000,
+   "url": "https://www.youtube.com/watch?v=8smLo4-fZGA",
+   "title": "100 ТЫСЯЧ — НИЩЕТА? Сколько нужно зарабатывать в 2026 году?",
+   "posted_at": "2026-10-27T13:34:57.909Z",
+   "popularity": 95000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -113,8 +112,8 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-7ef79b00f5c2.jpg",
-   "first_seen": "2026-10-24T11:14:16.927Z",
+   "media": "data/media/youtube-a5ed67667d68.jpg",
+   "first_seen": "2026-10-27T12:24:06.790Z",
    "picked": true
   },
   {
@@ -124,8 +123,8 @@
    "person": "t_j_youtube",
    "url": "https://www.youtube.com/watch?v=spiV_zjj3Is",
    "title": "Почему 22 миллиона россиян запретили себе брать кредиты",
-   "posted_at": "2026-10-26T12:44:15.769Z",
-   "popularity": 67000,
+   "posted_at": "2026-10-26T13:34:40.551Z",
+   "popularity": 68000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -147,8 +146,8 @@
    "person": "ольга сабитова",
    "url": "https://www.youtube.com/watch?v=LkP-o7qw7EA",
    "title": "Сделай ЭТО и получишь ПАССИВНЫЙ доход уже в ЯНВАРЕ 2027! Пошаговая инструкция С НУЛЯ",
-   "posted_at": "2026-10-28T12:44:44.772Z",
-   "popularity": 32000,
+   "posted_at": "2026-10-28T13:35:11.418Z",
+   "popularity": 33000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -171,10 +170,10 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7702156067941158162",
    "title": "Сколько ОТКЛАДЫВАТЬ в неделю, чтобы накопить миллион?  ⚡️Бесплатный мастер-класс 4–6 ноября: как сохранить деньги в 2027 году и выстроить путь к пассивному доходу 100 000 ₽ в месяц. Регистрируйся по с",
    "posted_at": "2026-10-29T18:19:14.000Z",
-   "popularity": 5955,
+   "popularity": 7603,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 9494
+    "followers": 9529
    },
    "format": {
     "kind": "видео",
@@ -188,14 +187,14 @@
    "picked": true
   },
   {
-   "id": "youtube:c1Ytq2yXRaI",
+   "id": "youtube:Cm3y6lX0I_E",
    "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=c1Ytq2yXRaI",
-   "title": "Расходы, доходы и два барреля нефти | Деньги 24",
-   "posted_at": "2026-10-30T14:45:15.380Z",
-   "popularity": 4400,
+   "source": "@NataliCash",
+   "person": "natalicash",
+   "url": "https://www.youtube.com/watch?v=Cm3y6lX0I_E",
+   "title": "#229 последнее распределение октября 86350р / думаю о досрочке",
+   "posted_at": "2026-11-01T09:35:28.662Z",
+   "popularity": 152,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -206,8 +205,8 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-096e29252406.jpg",
-   "first_seen": "2026-10-31T12:45:34.981Z",
+   "media": "data/media/youtube-6eb88c9a9211.jpg",
+   "first_seen": "2026-11-01T13:36:02.023Z",
    "picked": true
   },
   {
@@ -218,10 +217,10 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7702535149140839698",
    "title": "Простой способ, как ежемесячно получать выплаты от государства! Рассказал подробности в видео.  ⚡️Бесплатный мастер-класс 4–6 ноября: как сохранить деньги в 2027 году и выстроить путь к пассивному дох",
    "posted_at": "2026-10-30T18:50:16.000Z",
-   "popularity": 803,
+   "popularity": 2559,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 9494
+    "followers": 9529
    },
    "format": {
     "kind": "видео",
@@ -242,10 +241,10 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7701789862248090901",
    "title": "Тебя УЖЕ НЕЗАМЕТНО понизили!  ⚡️Бесплатный мастер-класс 4–6 ноября: как сохранить деньги в 2027 году и выстроить путь к пассивному доходу 100 000 ₽ в месяц. Регистрируйся по ссылке в шапке профиля! #д",
    "posted_at": "2026-10-28T18:38:10.000Z",
-   "popularity": 892,
+   "popularity": 999,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 9494
+    "followers": 9529
    },
    "format": {
     "kind": "видео",
@@ -266,10 +265,10 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7701041813976599829",
    "title": "Каршеринг или СВОЯ машина: что выгоднее? ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. Многие уверены, что своя машина всегда",
    "posted_at": "2026-10-26T18:15:22.000Z",
-   "popularity": 3911,
+   "popularity": 4053,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 9494
+    "followers": 9529
    },
    "format": {
     "kind": "видео",
@@ -289,8 +288,8 @@
    "person": "rationalanswer",
    "url": "https://www.youtube.com/watch?v=TkPsseHfhV0",
    "title": "Черный октябрь для интернета / ЦБ сохранил ставку / Илон Маск раздает акции",
-   "posted_at": "2026-10-26T12:44:21.539Z",
-   "popularity": 20000,
+   "posted_at": "2026-10-26T13:34:46.320Z",
+   "popularity": 21000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -306,14 +305,37 @@
    "picked": true
   },
   {
+   "id": "youtube:sdpj1PcGqmY",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=sdpj1PcGqmY",
+   "title": "ТОП вкладов в ноябре. Разбираем лучшие предложения банков",
+   "posted_at": "2026-11-01T10:34:52.290Z",
+   "popularity": 4300,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-d2194034515e.jpg",
+   "first_seen": "2026-11-01T13:36:02.023Z",
+   "picked": false
+  },
+  {
    "id": "youtube:LaXNMY9b7Gk",
    "platform": "youtube",
    "source": "@InvestFutureRu",
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=LaXNMY9b7Gk",
    "title": "Налог на переводы с 2027 года? Что изменится с 1 января",
-   "posted_at": "2026-10-30T14:44:27.457Z",
-   "popularity": 61000,
+   "posted_at": "2026-10-31T13:34:54.214Z",
+   "popularity": 91000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -335,8 +357,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=FEXXLoFvx14",
    "title": "Ставки по вкладам и проверки происхождения денег: чего ждать от банков в ноябре?",
-   "posted_at": "2026-10-29T12:44:29.294Z",
-   "popularity": 57000,
+   "posted_at": "2026-10-29T13:34:55.983Z",
+   "popularity": 60000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -352,36 +374,13 @@
    "picked": false
   },
   {
-   "id": "youtube:8smLo4-fZGA",
-   "platform": "youtube",
-   "source": "@InvestFutureRu",
-   "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=8smLo4-fZGA",
-   "title": "100 ТЫСЯЧ — НИЩЕТА? Сколько нужно зарабатывать в 2026 году?",
-   "posted_at": "2026-10-27T12:44:31.148Z",
-   "popularity": 89000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-a5ed67667d68.jpg",
-   "first_seen": "2026-10-27T12:24:06.790Z",
-   "picked": false
-  },
-  {
    "id": "youtube:A-14awnV1GY",
    "platform": "youtube",
    "source": "@InvestFutureRu",
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=A-14awnV1GY",
    "title": "Крупный бизнес скупает облигации, несмотря на дефолты. Они что-то знают?",
-   "posted_at": "2026-10-27T12:44:33.093Z",
+   "posted_at": "2026-10-27T13:34:59.734Z",
    "popularity": 79000,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -398,37 +397,14 @@
    "picked": false
   },
   {
-   "id": "youtube:lFB0Gc7XHqc",
-   "platform": "youtube",
-   "source": "@InvestFutureRu",
-   "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=lFB0Gc7XHqc",
-   "title": "Налог на вклады: сколько заберут с процентов и что предлагают изменить?",
-   "posted_at": "2026-10-24T12:44:35.032Z",
-   "popularity": 50000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-1aa2ea922fbd.jpg",
-   "first_seen": "2026-10-24T11:14:16.927Z",
-   "picked": false
-  },
-  {
    "id": "youtube:hOYjrlhuYSc",
    "platform": "youtube",
    "source": "@olgasabitova",
    "person": "ольга сабитова",
    "url": "https://www.youtube.com/watch?v=hOYjrlhuYSc",
    "title": "ЭТИ компании НЕ подведут в кризис! / Куда инвестировать в 2027?",
-   "posted_at": "2026-10-30T12:44:42.919Z",
-   "popularity": 22000,
+   "posted_at": "2026-10-30T13:35:09.612Z",
+   "popularity": 24000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -450,8 +426,8 @@
    "person": "дмитрий кокорев",
    "url": "https://www.youtube.com/watch?v=2ZTaprFxi0U",
    "title": "Почему реальная инфляция отличается от официальной? Кому это выгодно и что нам делать с деньгами?",
-   "posted_at": "2026-10-31T09:44:52.566Z",
-   "popularity": 4400,
+   "posted_at": "2026-10-31T13:35:17.212Z",
+   "popularity": 20000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -473,8 +449,8 @@
    "person": "дмитрий кокорев",
    "url": "https://www.youtube.com/watch?v=GvWALIzH0K8",
    "title": "Ультимативный гайд по пассивному доходу! Что делать по шагам, чтобы жить на проценты и не работать?",
-   "posted_at": "2026-10-29T12:44:54.457Z",
-   "popularity": 27000,
+   "posted_at": "2026-10-29T13:35:19.009Z",
+   "popularity": 30000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -496,7 +472,7 @@
    "person": "natalicash",
    "url": "https://www.youtube.com/watch?v=ILGS0-qXLBg",
    "title": "#228 четвёртое распределение октября 36650р / спасибо, что Вы со мной 💜💜💜",
-   "posted_at": "2026-10-25T12:45:03.975Z",
+   "posted_at": "2026-10-25T13:35:30.526Z",
    "popularity": 1000,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -519,8 +495,8 @@
    "person": "finley_rus",
    "url": "https://www.youtube.com/watch?v=bPW573hvitc",
    "title": "Правило «СТАРЫХ ДЕНЕГ»: Почему твой успешный сосед беднее тебя",
-   "posted_at": "2026-10-29T12:45:09.569Z",
-   "popularity": 1400,
+   "posted_at": "2026-10-28T13:35:36.387Z",
+   "popularity": 1500,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -536,14 +512,37 @@
    "picked": false
   },
   {
+   "id": "youtube:c1Ytq2yXRaI",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=c1Ytq2yXRaI",
+   "title": "Расходы, доходы и два барреля нефти | Деньги 24",
+   "posted_at": "2026-10-31T13:35:42.200Z",
+   "popularity": 5800,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-096e29252406.jpg",
+   "first_seen": "2026-10-31T12:45:34.981Z",
+   "picked": true
+  },
+  {
    "id": "youtube:x2OVoCZl9pw",
    "platform": "youtube",
    "source": "@Dengi24",
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=x2OVoCZl9pw",
    "title": "Московские отели повысили эффективность благодаря федеральному проекту | Деньги 24",
-   "posted_at": "2026-10-30T12:45:17.098Z",
-   "popularity": 468,
+   "posted_at": "2026-10-30T13:35:44.019Z",
+   "popularity": 563,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -565,8 +564,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=ObPwhVFWlC0",
    "title": "ЦБ обновил правила контроля за операциями клиентов с наличными | Деньги 24",
-   "posted_at": "2026-10-29T12:45:18.991Z",
-   "popularity": 2000,
+   "posted_at": "2026-10-29T13:35:46.056Z",
+   "popularity": 2300,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -588,7 +587,7 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=YSbe_7Yyg-I",
    "title": "В РФ начали обсуждать изменения для самозанятых после 2028 года | Деньги 24",
-   "posted_at": "2026-10-29T12:45:20.823Z",
+   "posted_at": "2026-10-29T13:35:47.933Z",
    "popularity": 1100,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -611,8 +610,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=Abc3KvITjWw",
    "title": "Новые власти Сербии заявили, что не будут вводить санкции против России | Деньги 24",
-   "posted_at": "2026-10-28T12:45:22.645Z",
-   "popularity": 1100,
+   "posted_at": "2026-10-28T13:35:49.815Z",
+   "popularity": 1200,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -634,7 +633,7 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=1S3PZzqprRM",
    "title": "Ипотека под 16% или 18–19%: от чего зависит предложение? | Деньги 24",
-   "posted_at": "2026-10-28T12:45:24.409Z",
+   "posted_at": "2026-10-28T13:35:51.557Z",
    "popularity": 1200,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -657,8 +656,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=CouGJSPAJRA",
    "title": "Почему ЦБ сохраняет 14% и что мешает снижению ставки? | Деньги 24",
-   "posted_at": "2026-10-27T12:45:26.044Z",
-   "popularity": 919,
+   "posted_at": "2026-10-27T13:35:53.492Z",
+   "popularity": 929,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -680,8 +679,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=B4Uv53Sp3YQ",
    "title": "Ставку ЦБ не снизили: на что рассчитывать заёмщику | Деньги 24",
-   "posted_at": "2026-10-27T12:45:28.064Z",
-   "popularity": 833,
+   "posted_at": "2026-10-27T13:35:55.242Z",
+   "popularity": 843,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -703,8 +702,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=Buq1SFJvfdo",
    "title": "Можно ли снизить платёж по ипотеке с высокой ставкой? | Деньги 24",
-   "posted_at": "2026-10-26T12:45:29.667Z",
-   "popularity": 841,
+   "posted_at": "2026-10-26T13:35:56.923Z",
+   "popularity": 852,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -718,6 +717,29 @@
    "media": "data/media/youtube-6bca962ab563.jpg",
    "first_seen": "2026-10-26T13:16:23.099Z",
    "picked": false
+  },
+  {
+   "id": "youtube:I7v3Xq26ItE",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=I7v3Xq26ItE",
+   "title": "Банки будут проверять телефоны и блокировать переводы: что изменится с 1 марта",
+   "posted_at": "2026-10-24T12:44:36.953Z",
+   "popularity": 91000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-7ef79b00f5c2.jpg",
+   "first_seen": "2026-10-24T11:14:16.927Z",
+   "picked": true
   },
   {
    "id": "youtube:CBPNO2OXlws",
