@@ -1,12 +1,11 @@
 {
- "generated_at": "2026-11-06T14:25:20.891Z",
+ "generated_at": "2026-11-07T13:15:41.960Z",
  "window_days": 7,
  "theme": "личные финансы",
  "digest": [
   "youtube:LaXNMY9b7Gk",
   "youtube:p8Aop_IXY78",
-  "tiktok:7702535149140839698",
-  "youtube:oRSKPXBWXUE"
+  "tiktok:7703643162480250164"
  ],
  "formats": {
   "shapes": [
@@ -15,7 +14,7 @@
     "count": 1
    }
   ],
-  "of": 4
+  "of": 3
  },
  "source_report": [
   {
@@ -34,7 +33,7 @@
    "source": "tiktok/kokorevinvest",
    "ok": true,
    "scanned": 10,
-   "fresh": 7
+   "fresh": 6
   },
   {
    "source": "youtube/T_J_youtube",
@@ -52,19 +51,19 @@
    "source": "youtube/InvestFutureRu",
    "ok": true,
    "scanned": 30,
-   "fresh": 5
+   "fresh": 6
   },
   {
    "source": "youtube/olgasabitova",
    "ok": true,
    "scanned": 30,
-   "fresh": 3
+   "fresh": 2
   },
   {
    "source": "youtube/kokorevinvest",
    "ok": true,
    "scanned": 30,
-   "fresh": 2
+   "fresh": 3
   },
   {
    "source": "youtube/tihiedengi.channel",
@@ -88,7 +87,7 @@
    "source": "youtube/Dengi24",
    "ok": true,
    "scanned": 30,
-   "fresh": 7
+   "fresh": 6
   }
  ],
  "summary": "",
@@ -100,8 +99,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=LaXNMY9b7Gk",
    "title": "Налог на переводы с 2027 года? Что изменится с 1 января",
-   "posted_at": "2026-10-31T14:24:22.151Z",
-   "popularity": 162000,
+   "posted_at": "2026-10-31T13:14:47.985Z",
+   "popularity": 167000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -123,8 +122,8 @@
    "person": "t_j_youtube",
    "url": "https://www.youtube.com/watch?v=p8Aop_IXY78",
    "title": "Кому хуже от инфляции: богатым или бедным? Мы изучили расходы россиян",
-   "posted_at": "2026-11-02T14:24:02.011Z",
-   "popularity": 94000,
+   "posted_at": "2026-11-02T13:14:26.562Z",
+   "popularity": 97000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -137,6 +136,587 @@
    },
    "media": "data/media/youtube-3f599762f1b2.jpg",
    "first_seen": "2026-11-02T16:12:55.039Z",
+   "picked": true
+  },
+  {
+   "id": "tiktok:7703643162480250164",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7703643162480250164",
+   "title": "Сколько РЕАЛЬНО зарабатывают в Москве? ⚡️Бесплатный мастер-класс 4–6 ноября: как сохранить деньги в 2027 году и выстроить путь к пассивному доходу 100 000 ₽ в месяц. Регистрируйся по ссылке в шапке пр",
+   "posted_at": "2026-11-02T18:29:56.000Z",
+   "popularity": 7243,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 9885
+   },
+   "format": {
+    "kind": "видео",
+    "width": 576,
+    "height": 1024,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-7475a5af4d26.jpg",
+   "first_seen": "2026-11-03T14:28:08.101Z",
+   "picked": true
+  },
+  {
+   "id": "tiktok:7704294760856505620",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7704294760856505620",
+   "title": "Ссылка для регистрации в шапке профиля. Жду вас на мастер-классе! Первый эфир уже сегодня🔥 #дмитрийкокорев #накопления #сбережения #деньги #личныефинансы #финансы #бюджет #инвестиции #капитал #пассив",
+   "posted_at": "2026-11-04T12:38:28.000Z",
+   "popularity": 670,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 9885
+   },
+   "format": {
+    "kind": "видео",
+    "width": 576,
+    "height": 1048,
+    "ratio": 0.55,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-3246ff1abc5e.jpg",
+   "first_seen": "2026-11-04T14:42:52.118Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7704189167739079954",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7704189167739079954",
+   "title": "Ребятки, поделюсь с вами важным событием) Вчера в нашей семье была особенная дата - 9 лет, как я отец! 🥳 У моего старшего сына Дани, День рождения.  Поздравили его с самого утра его любимым «тортом».",
+   "posted_at": "2026-11-04T05:48:42.000Z",
+   "popularity": 706,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 9885
+   },
+   "format": {
+    "kind": "видео",
+    "width": 576,
+    "height": 1024,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-ea5f7b6dca75.jpg",
+   "first_seen": "2026-11-04T14:42:52.118Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7704189119353654536",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7704189119353654536",
+   "title": "У моего старшего сына Дани, День рождения. Поздравили его с самого утра его любимым «тортом». Динара испекла его любимый пирог с мясом. Свечки вставили прям в него. Сын был счастлив. Вчера отметили с ",
+   "posted_at": "2026-11-04T05:48:31.000Z",
+   "popularity": 610,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 9885
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-922bdd2fa8b0.jpg",
+   "first_seen": "2026-11-04T14:42:52.118Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7704011150203047189",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7704011150203047189",
+   "title": "Насколько ПОДОРОЖАЛА жизнь в России с 2020? ⚡️Бесплатный мастер-класс 4–6 ноября: как сохранить деньги в 2027 году и выстроить путь к пассивному доходу 100 000 ₽ в месяц. Регистрируйся по ссылке в шап",
+   "posted_at": "2026-11-03T18:17:54.000Z",
+   "popularity": 887,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 9885
+   },
+   "format": {
+    "kind": "видео",
+    "width": 576,
+    "height": 1024,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-f54cd4607baa.jpg",
+   "first_seen": "2026-11-04T14:42:52.118Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7703980617318370561",
+   "platform": "tiktok",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.tiktok.com/@kokorevinvest/video/7703980617318370561",
+   "title": "Приходите на МК — регистрация по ссылке в шапке профиля. За три дня разберем, что ждет нас и наши деньги в 2027 году, как подготовиться уже сейчас, чтобы сохранить свои сбережения. Поговорим и про нал",
+   "posted_at": "2026-11-03T16:19:25.000Z",
+   "popularity": 621,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 9885
+   },
+   "format": {
+    "kind": "видео",
+    "width": 1122,
+    "height": 1402,
+    "ratio": 0.8,
+    "name": "вертикальный 4:5"
+   },
+   "media": "data/media/tiktok-19bcb4a16eee.jpg",
+   "first_seen": "2026-11-04T14:42:52.118Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:UXnTh9mJzp4",
+   "platform": "youtube",
+   "source": "@RationalAnswer",
+   "person": "rationalanswer",
+   "url": "https://www.youtube.com/watch?v=UXnTh9mJzp4",
+   "title": "Взлом Binance на $6 млрд / Отчетность Anthropic перед IPO / Ограничение интернет-трафика в РФ",
+   "posted_at": "2026-11-02T13:14:32.235Z",
+   "popularity": 25000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-d5339198d9c0.jpg",
+   "first_seen": "2026-11-02T16:12:55.039Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:YB56KMlNh4c",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=YB56KMlNh4c",
+   "title": "Выборы в США обрушили рынки: что происходит с нефтью, золотом и рублём",
+   "posted_at": "2026-11-06T17:14:38.526Z",
+   "popularity": 29000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-076e7118c513.jpg",
+   "first_seen": "2026-11-07T13:15:41.960Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:TkJihOgtRbk",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=TkJihOgtRbk",
+   "title": "ДЕНЬГИ ПОД МАТРАСОМ: ПОЧЕМУ РОССИЯНЕ БОЯТСЯ БАНКОВ",
+   "posted_at": "2026-11-04T13:14:40.259Z",
+   "popularity": 82000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-e1159ee40e92.jpg",
+   "first_seen": "2026-11-04T14:42:52.118Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:dJdv5szLSuA",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=dJdv5szLSuA",
+   "title": "«Самолёт» будут спасать? Что делать с акциями и облигациями",
+   "posted_at": "2026-11-04T13:14:42.257Z",
+   "popularity": 25000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-5f24c0db9536.jpg",
+   "first_seen": "2026-11-03T14:28:08.101Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:Sk9919cuAIk",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=Sk9919cuAIk",
+   "title": "Пенсионные деньги переведут в ПДС без спроса? Что готовит Минфин",
+   "posted_at": "2026-11-03T13:14:43.951Z",
+   "popularity": 135000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-ca7de88a7005.jpg",
+   "first_seen": "2026-11-02T16:12:55.039Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:sdpj1PcGqmY",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=sdpj1PcGqmY",
+   "title": "ТОП вкладов в ноябре. Разбираем лучшие предложения банков",
+   "posted_at": "2026-11-01T13:14:45.986Z",
+   "popularity": 68000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-d2194034515e.jpg",
+   "first_seen": "2026-11-01T13:36:02.023Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:oRSKPXBWXUE",
+   "platform": "youtube",
+   "source": "@olgasabitova",
+   "person": "ольга сабитова",
+   "url": "https://www.youtube.com/watch?v=oRSKPXBWXUE",
+   "title": "Почему НИКТО не говорит, что за вклад надо ПЛАТИТЬ?! / Посчитала, какой НАЛОГ вам придет в 2027",
+   "posted_at": "2026-11-06T13:14:53.861Z",
+   "popularity": 26000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-ecc6e0f00c14.jpg",
+   "first_seen": "2026-11-06T14:25:20.891Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:QfDX8lCJIRQ",
+   "platform": "youtube",
+   "source": "@olgasabitova",
+   "person": "ольга сабитова",
+   "url": "https://www.youtube.com/watch?v=QfDX8lCJIRQ",
+   "title": "Перестань покупать БАРАХЛО! / СЕКРЕТНЫЙ способ экономии в КРИЗИС 2027",
+   "posted_at": "2026-11-04T13:14:55.535Z",
+   "popularity": 33000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-e20e5c6da63a.jpg",
+   "first_seen": "2026-11-04T14:42:52.118Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:Hl2D63aIBfE",
+   "platform": "youtube",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.youtube.com/watch?v=Hl2D63aIBfE",
+   "title": "МЕНЯ ЭТО СЛОМАЛО! Выиграл 1 млн в казино, но долг 2 млн! / Деньги на стол",
+   "posted_at": "2026-11-06T15:15:03.327Z",
+   "popularity": 5400,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-c732fd88c936.jpg",
+   "first_seen": "2026-11-07T13:15:41.960Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:uN9NG7bC3v4",
+   "platform": "youtube",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.youtube.com/watch?v=uN9NG7bC3v4",
+   "title": "Вы не заметили, а его УЖЕ приняли! Что скрывает новый бюджет РФ на 2027-2029?",
+   "posted_at": "2026-11-04T13:15:05.109Z",
+   "popularity": 102000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-64d7036bf167.jpg",
+   "first_seen": "2026-11-03T14:28:08.101Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:2ZTaprFxi0U",
+   "platform": "youtube",
+   "source": "@kokorevinvest",
+   "person": "дмитрий кокорев",
+   "url": "https://www.youtube.com/watch?v=2ZTaprFxi0U",
+   "title": "Почему реальная инфляция отличается от официальной? Кому это выгодно и что нам делать с деньгами?",
+   "posted_at": "2026-10-31T13:15:06.964Z",
+   "popularity": 34000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-41dbacca83a8.jpg",
+   "first_seen": "2026-10-31T12:45:34.981Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:Cm3y6lX0I_E",
+   "platform": "youtube",
+   "source": "@NataliCash",
+   "person": "natalicash",
+   "url": "https://www.youtube.com/watch?v=Cm3y6lX0I_E",
+   "title": "#229 последнее распределение октября 86350р / думаю о досрочке",
+   "posted_at": "2026-11-01T13:15:16.477Z",
+   "popularity": 1200,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-6eb88c9a9211.jpg",
+   "first_seen": "2026-11-01T13:36:02.023Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:IOCsJol9w0E",
+   "platform": "youtube",
+   "source": "@Finley_Rus",
+   "person": "finley_rus",
+   "url": "https://www.youtube.com/watch?v=IOCsJol9w0E",
+   "title": "Ловушка «СРЕДНЕГО КЛАССА»: ПОЧЕМУ повышение зарплаты делает тебя беднее",
+   "posted_at": "2026-11-04T13:15:22.056Z",
+   "popularity": 3600,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-5e11209d5d6a.jpg",
+   "first_seen": "2026-11-05T14:46:52.857Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:wIAOECxFJk0",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=wIAOECxFJk0",
+   "title": "Кешбэк. Как он устроен и как на нем заработать? | Финансовая грамотность",
+   "posted_at": "2026-11-06T13:15:27.728Z",
+   "popularity": 1100,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-343bc80f2571.jpg",
+   "first_seen": "2026-11-06T14:25:20.891Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:NsUbNYOI-L0",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=NsUbNYOI-L0",
+   "title": "Россияне назвали желаемый размер ежемесячной зарплаты | Деньги 24",
+   "posted_at": "2026-11-05T13:15:29.569Z",
+   "popularity": 608,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-b017fb161c90.jpg",
+   "first_seen": "2026-11-05T14:46:52.857Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:0MMmAldLolU",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=0MMmAldLolU",
+   "title": "Пенсию могут автоматически перевести в программу долгосрочных вложений | Деньги 24",
+   "posted_at": "2026-11-04T13:15:31.490Z",
+   "popularity": 9100,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-f89c430f9a01.jpg",
+   "first_seen": "2026-11-04T14:42:52.118Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:X_tvbXsikc4",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=X_tvbXsikc4",
+   "title": "Остался месяц, чтобы уплатить имущественные налоги | Деньги 24",
+   "posted_at": "2026-11-03T13:15:33.214Z",
+   "popularity": 1100,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-c5f16f8859d6.jpg",
+   "first_seen": "2026-11-03T14:28:08.101Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:JWYC0WyN8Yg",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=JWYC0WyN8Yg",
+   "title": "Минцифры планирует ужесточить условия работы виртуальных операторов связи | Деньги 24",
+   "posted_at": "2026-11-02T13:15:34.986Z",
+   "popularity": 1200,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-44570c069a1f.jpg",
+   "first_seen": "2026-11-02T16:12:55.039Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:c1Ytq2yXRaI",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=c1Ytq2yXRaI",
+   "title": "Расходы, доходы и два барреля нефти | Деньги 24",
+   "posted_at": "2026-10-31T13:15:36.904Z",
+   "popularity": 7700,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-096e29252406.jpg",
+   "first_seen": "2026-10-31T12:45:34.981Z",
    "picked": true
   },
   {
@@ -160,564 +740,6 @@
     "name": "вертикальный 9:16"
    },
    "media": "data/media/tiktok-9f5b8247f199.jpg",
-   "first_seen": "2026-10-31T12:45:34.981Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:oRSKPXBWXUE",
-   "platform": "youtube",
-   "source": "@olgasabitova",
-   "person": "ольга сабитова",
-   "url": "https://www.youtube.com/watch?v=oRSKPXBWXUE",
-   "title": "Почему НИКТО не говорит, что за вклад надо ПЛАТИТЬ?! / Посчитала, какой НАЛОГ вам придет в 2027",
-   "posted_at": "2026-11-05T15:24:29.752Z",
-   "popularity": 17000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-ecc6e0f00c14.jpg",
-   "first_seen": "2026-11-06T14:25:20.891Z",
-   "picked": true
-  },
-  {
-   "id": "tiktok:7704294760856505620",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7704294760856505620",
-   "title": "Ссылка для регистрации в шапке профиля. Жду вас на мастер-классе! Первый эфир уже сегодня🔥 #дмитрийкокорев #накопления #сбережения #деньги #личныефинансы #финансы #бюджет #инвестиции #капитал #пассив",
-   "posted_at": "2026-11-04T12:38:28.000Z",
-   "popularity": 641,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 9848
-   },
-   "format": {
-    "kind": "видео",
-    "width": 576,
-    "height": 1048,
-    "ratio": 0.55,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-3246ff1abc5e.jpg",
-   "first_seen": "2026-11-04T14:42:52.118Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7704189167739079954",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7704189167739079954",
-   "title": "Ребятки, поделюсь с вами важным событием) Вчера в нашей семье была особенная дата - 9 лет, как я отец! 🥳 У моего старшего сына Дани, День рождения.  Поздравили его с самого утра его любимым «тортом».",
-   "posted_at": "2026-11-04T05:48:42.000Z",
-   "popularity": 688,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 9848
-   },
-   "format": {
-    "kind": "видео",
-    "width": 576,
-    "height": 1024,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-ea5f7b6dca75.jpg",
-   "first_seen": "2026-11-04T14:42:52.118Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7704189119353654536",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7704189119353654536",
-   "title": "У моего старшего сына Дани, День рождения. Поздравили его с самого утра его любимым «тортом». Динара испекла его любимый пирог с мясом. Свечки вставили прям в него. Сын был счастлив. Вчера отметили с ",
-   "posted_at": "2026-11-04T05:48:31.000Z",
-   "popularity": 594,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 9848
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-922bdd2fa8b0.jpg",
-   "first_seen": "2026-11-04T14:42:52.118Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7704011150203047189",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7704011150203047189",
-   "title": "Насколько ПОДОРОЖАЛА жизнь в России с 2020? ⚡️Бесплатный мастер-класс 4–6 ноября: как сохранить деньги в 2027 году и выстроить путь к пассивному доходу 100 000 ₽ в месяц. Регистрируйся по ссылке в шап",
-   "posted_at": "2026-11-03T18:17:54.000Z",
-   "popularity": 863,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 9848
-   },
-   "format": {
-    "kind": "видео",
-    "width": 576,
-    "height": 1024,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-f54cd4607baa.jpg",
-   "first_seen": "2026-11-04T14:42:52.118Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7703980617318370561",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7703980617318370561",
-   "title": "Приходите на МК — регистрация по ссылке в шапке профиля. За три дня разберем, что ждет нас и наши деньги в 2027 году, как подготовиться уже сейчас, чтобы сохранить свои сбережения. Поговорим и про нал",
-   "posted_at": "2026-11-03T16:19:25.000Z",
-   "popularity": 610,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 9848
-   },
-   "format": {
-    "kind": "видео",
-    "width": 1122,
-    "height": 1402,
-    "ratio": 0.8,
-    "name": "вертикальный 4:5"
-   },
-   "media": "data/media/tiktok-19bcb4a16eee.jpg",
-   "first_seen": "2026-11-04T14:42:52.118Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7703643162480250164",
-   "platform": "tiktok",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.tiktok.com/@kokorevinvest/video/7703643162480250164",
-   "title": "Сколько РЕАЛЬНО зарабатывают в Москве? ⚡️Бесплатный мастер-класс 4–6 ноября: как сохранить деньги в 2027 году и выстроить путь к пассивному доходу 100 000 ₽ в месяц. Регистрируйся по ссылке в шапке пр",
-   "posted_at": "2026-11-02T18:29:56.000Z",
-   "popularity": 6248,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 9848
-   },
-   "format": {
-    "kind": "видео",
-    "width": 576,
-    "height": 1024,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-7475a5af4d26.jpg",
-   "first_seen": "2026-11-03T14:28:08.101Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:UXnTh9mJzp4",
-   "platform": "youtube",
-   "source": "@RationalAnswer",
-   "person": "rationalanswer",
-   "url": "https://www.youtube.com/watch?v=UXnTh9mJzp4",
-   "title": "Взлом Binance на $6 млрд / Отчетность Anthropic перед IPO / Ограничение интернет-трафика в РФ",
-   "posted_at": "2026-11-02T14:24:07.747Z",
-   "popularity": 25000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-d5339198d9c0.jpg",
-   "first_seen": "2026-11-02T16:12:55.039Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:TkJihOgtRbk",
-   "platform": "youtube",
-   "source": "@InvestFutureRu",
-   "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=TkJihOgtRbk",
-   "title": "ДЕНЬГИ ПОД МАТРАСОМ: ПОЧЕМУ РОССИЯНЕ БОЯТСЯ БАНКОВ",
-   "posted_at": "2026-11-04T14:24:14.313Z",
-   "popularity": 76000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-e1159ee40e92.jpg",
-   "first_seen": "2026-11-04T14:42:52.118Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:dJdv5szLSuA",
-   "platform": "youtube",
-   "source": "@InvestFutureRu",
-   "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=dJdv5szLSuA",
-   "title": "«Самолёт» будут спасать? Что делать с акциями и облигациями",
-   "posted_at": "2026-11-03T14:24:16.206Z",
-   "popularity": 25000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-5f24c0db9536.jpg",
-   "first_seen": "2026-11-03T14:28:08.101Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:Sk9919cuAIk",
-   "platform": "youtube",
-   "source": "@InvestFutureRu",
-   "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=Sk9919cuAIk",
-   "title": "Пенсионные деньги переведут в ПДС без спроса? Что готовит Минфин",
-   "posted_at": "2026-11-03T14:24:18.113Z",
-   "popularity": 131000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-ca7de88a7005.jpg",
-   "first_seen": "2026-11-02T16:12:55.039Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:sdpj1PcGqmY",
-   "platform": "youtube",
-   "source": "@InvestFutureRu",
-   "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=sdpj1PcGqmY",
-   "title": "ТОП вкладов в ноябре. Разбираем лучшие предложения банков",
-   "posted_at": "2026-11-01T14:24:20.114Z",
-   "popularity": 63000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-d2194034515e.jpg",
-   "first_seen": "2026-11-01T13:36:02.023Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:QfDX8lCJIRQ",
-   "platform": "youtube",
-   "source": "@olgasabitova",
-   "person": "ольга сабитова",
-   "url": "https://www.youtube.com/watch?v=QfDX8lCJIRQ",
-   "title": "Перестань покупать БАРАХЛО! / СЕКРЕТНЫЙ способ экономии в КРИЗИС 2027",
-   "posted_at": "2026-11-04T14:24:31.579Z",
-   "popularity": 26000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-e20e5c6da63a.jpg",
-   "first_seen": "2026-11-04T14:42:52.118Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:hOYjrlhuYSc",
-   "platform": "youtube",
-   "source": "@olgasabitova",
-   "person": "ольга сабитова",
-   "url": "https://www.youtube.com/watch?v=hOYjrlhuYSc",
-   "title": "ЭТИ компании НЕ подведут в кризис! / Куда инвестировать в 2027?",
-   "posted_at": "2026-10-30T14:24:33.636Z",
-   "popularity": 34000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-3244dbc0cb81.jpg",
-   "first_seen": "2026-10-30T13:08:08.384Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:uN9NG7bC3v4",
-   "platform": "youtube",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.youtube.com/watch?v=uN9NG7bC3v4",
-   "title": "Вы не заметили, а его УЖЕ приняли! Что скрывает новый бюджет РФ на 2027-2029?",
-   "posted_at": "2026-11-03T14:24:39.625Z",
-   "popularity": 89000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-64d7036bf167.jpg",
-   "first_seen": "2026-11-03T14:28:08.101Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:2ZTaprFxi0U",
-   "platform": "youtube",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.youtube.com/watch?v=2ZTaprFxi0U",
-   "title": "Почему реальная инфляция отличается от официальной? Кому это выгодно и что нам делать с деньгами?",
-   "posted_at": "2026-10-31T14:24:41.327Z",
-   "popularity": 34000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-41dbacca83a8.jpg",
-   "first_seen": "2026-10-31T12:45:34.981Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:Cm3y6lX0I_E",
-   "platform": "youtube",
-   "source": "@NataliCash",
-   "person": "natalicash",
-   "url": "https://www.youtube.com/watch?v=Cm3y6lX0I_E",
-   "title": "#229 последнее распределение октября 86350р / думаю о досрочке",
-   "posted_at": "2026-11-01T14:24:50.881Z",
-   "popularity": 1200,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-6eb88c9a9211.jpg",
-   "first_seen": "2026-11-01T13:36:02.023Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:IOCsJol9w0E",
-   "platform": "youtube",
-   "source": "@Finley_Rus",
-   "person": "finley_rus",
-   "url": "https://www.youtube.com/watch?v=IOCsJol9w0E",
-   "title": "Ловушка «СРЕДНЕГО КЛАССА»: ПОЧЕМУ повышение зарплаты делает тебя беднее",
-   "posted_at": "2026-11-04T14:24:56.569Z",
-   "popularity": 806,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-5e11209d5d6a.jpg",
-   "first_seen": "2026-11-05T14:46:52.857Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:wIAOECxFJk0",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=wIAOECxFJk0",
-   "title": "Кешбэк. Как он устроен и как на нем заработать? | Финансовая грамотность",
-   "posted_at": "2026-11-05T17:25:02.392Z",
-   "popularity": 851,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-343bc80f2571.jpg",
-   "first_seen": "2026-11-06T14:25:20.891Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:NsUbNYOI-L0",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=NsUbNYOI-L0",
-   "title": "Россияне назвали желаемый размер ежемесячной зарплаты | Деньги 24",
-   "posted_at": "2026-11-05T14:25:04.461Z",
-   "popularity": 528,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-b017fb161c90.jpg",
-   "first_seen": "2026-11-05T14:46:52.857Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:0MMmAldLolU",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=0MMmAldLolU",
-   "title": "Пенсию могут автоматически перевести в программу долгосрочных вложений | Деньги 24",
-   "posted_at": "2026-11-04T14:25:06.507Z",
-   "popularity": 7800,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-f89c430f9a01.jpg",
-   "first_seen": "2026-11-04T14:42:52.118Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:X_tvbXsikc4",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=X_tvbXsikc4",
-   "title": "Остался месяц, чтобы уплатить имущественные налоги | Деньги 24",
-   "posted_at": "2026-11-03T14:25:08.347Z",
-   "popularity": 1100,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-c5f16f8859d6.jpg",
-   "first_seen": "2026-11-03T14:28:08.101Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:JWYC0WyN8Yg",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=JWYC0WyN8Yg",
-   "title": "Минцифры планирует ужесточить условия работы виртуальных операторов связи | Деньги 24",
-   "posted_at": "2026-11-02T14:25:10.234Z",
-   "popularity": 1100,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-44570c069a1f.jpg",
-   "first_seen": "2026-11-02T16:12:55.039Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:c1Ytq2yXRaI",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=c1Ytq2yXRaI",
-   "title": "Расходы, доходы и два барреля нефти | Деньги 24",
-   "posted_at": "2026-10-30T14:25:12.040Z",
-   "popularity": 7700,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-096e29252406.jpg",
    "first_seen": "2026-10-31T12:45:34.981Z",
    "picked": true
   },
