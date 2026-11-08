@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-07T13:15:41.960Z",
+ "generated_at": "2026-11-08T13:37:30.104Z",
  "window_days": 7,
  "theme": "личные финансы",
  "digest": [
-  "youtube:LaXNMY9b7Gk",
+  "youtube:Sk9919cuAIk",
   "youtube:p8Aop_IXY78",
-  "tiktok:7703643162480250164"
+  "tiktok:7703643162480250164",
+  "youtube:WGWFVrLl4uI"
  ],
  "formats": {
   "shapes": [
@@ -14,7 +15,7 @@
     "count": 1
    }
   ],
-  "of": 3
+  "of": 4
  },
  "source_report": [
   {
@@ -63,7 +64,7 @@
    "source": "youtube/kokorevinvest",
    "ok": true,
    "scanned": 30,
-   "fresh": 3
+   "fresh": 2
   },
   {
    "source": "youtube/tihiedengi.channel",
@@ -75,7 +76,7 @@
    "source": "youtube/NataliCash",
    "ok": true,
    "scanned": 30,
-   "fresh": 1
+   "fresh": 2
   },
   {
    "source": "youtube/Finley_Rus",
@@ -87,20 +88,20 @@
    "source": "youtube/Dengi24",
    "ok": true,
    "scanned": 30,
-   "fresh": 6
+   "fresh": 5
   }
  ],
  "summary": "",
  "signals": [
   {
-   "id": "youtube:LaXNMY9b7Gk",
+   "id": "youtube:Sk9919cuAIk",
    "platform": "youtube",
    "source": "@InvestFutureRu",
    "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=LaXNMY9b7Gk",
-   "title": "Налог на переводы с 2027 года? Что изменится с 1 января",
-   "posted_at": "2026-10-31T13:14:47.985Z",
-   "popularity": 167000,
+   "url": "https://www.youtube.com/watch?v=Sk9919cuAIk",
+   "title": "Пенсионные деньги переведут в ПДС без спроса? Что готовит Минфин",
+   "posted_at": "2026-11-03T13:36:36.164Z",
+   "popularity": 139000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -111,8 +112,8 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-d5300992a1d2.jpg",
-   "first_seen": "2026-10-31T12:45:34.981Z",
+   "media": "data/media/youtube-ca7de88a7005.jpg",
+   "first_seen": "2026-11-02T16:12:55.039Z",
    "picked": true
   },
   {
@@ -122,8 +123,8 @@
    "person": "t_j_youtube",
    "url": "https://www.youtube.com/watch?v=p8Aop_IXY78",
    "title": "Кому хуже от инфляции: богатым или бедным? Мы изучили расходы россиян",
-   "posted_at": "2026-11-02T13:14:26.562Z",
-   "popularity": 97000,
+   "posted_at": "2026-11-02T13:36:17.896Z",
+   "popularity": 100000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -146,10 +147,10 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7703643162480250164",
    "title": "Сколько РЕАЛЬНО зарабатывают в Москве? ⚡️Бесплатный мастер-класс 4–6 ноября: как сохранить деньги в 2027 году и выстроить путь к пассивному доходу 100 000 ₽ в месяц. Регистрируйся по ссылке в шапке пр",
    "posted_at": "2026-11-02T18:29:56.000Z",
-   "popularity": 7243,
+   "popularity": 8903,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 9885
+    "followers": 9906
    },
    "format": {
     "kind": "видео",
@@ -163,6 +164,29 @@
    "picked": true
   },
   {
+   "id": "youtube:WGWFVrLl4uI",
+   "platform": "youtube",
+   "source": "@NataliCash",
+   "person": "natalicash",
+   "url": "https://www.youtube.com/watch?v=WGWFVrLl4uI",
+   "title": "#231 первое распределение ноября 36700р / планирую досрочку, отдаю долги ",
+   "posted_at": "2026-11-08T09:37:05.673Z",
+   "popularity": 258,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-2ae8a00a7aa8.jpg",
+   "first_seen": "2026-11-08T13:37:30.104Z",
+   "picked": true
+  },
+  {
    "id": "tiktok:7704294760856505620",
    "platform": "tiktok",
    "source": "@kokorevinvest",
@@ -170,10 +194,10 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7704294760856505620",
    "title": "Ссылка для регистрации в шапке профиля. Жду вас на мастер-классе! Первый эфир уже сегодня🔥 #дмитрийкокорев #накопления #сбережения #деньги #личныефинансы #финансы #бюджет #инвестиции #капитал #пассив",
    "posted_at": "2026-11-04T12:38:28.000Z",
-   "popularity": 670,
+   "popularity": 690,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 9885
+    "followers": 9906
    },
    "format": {
     "kind": "видео",
@@ -194,10 +218,10 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7704189167739079954",
    "title": "Ребятки, поделюсь с вами важным событием) Вчера в нашей семье была особенная дата - 9 лет, как я отец! 🥳 У моего старшего сына Дани, День рождения.  Поздравили его с самого утра его любимым «тортом».",
    "posted_at": "2026-11-04T05:48:42.000Z",
-   "popularity": 706,
+   "popularity": 718,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 9885
+    "followers": 9906
    },
    "format": {
     "kind": "видео",
@@ -218,10 +242,10 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7704189119353654536",
    "title": "У моего старшего сына Дани, День рождения. Поздравили его с самого утра его любимым «тортом». Динара испекла его любимый пирог с мясом. Свечки вставили прям в него. Сын был счастлив. Вчера отметили с ",
    "posted_at": "2026-11-04T05:48:31.000Z",
-   "popularity": 610,
+   "popularity": 621,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 9885
+    "followers": 9906
    },
    "format": {
     "kind": "видео",
@@ -242,10 +266,10 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7704011150203047189",
    "title": "Насколько ПОДОРОЖАЛА жизнь в России с 2020? ⚡️Бесплатный мастер-класс 4–6 ноября: как сохранить деньги в 2027 году и выстроить путь к пассивному доходу 100 000 ₽ в месяц. Регистрируйся по ссылке в шап",
    "posted_at": "2026-11-03T18:17:54.000Z",
-   "popularity": 887,
+   "popularity": 904,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 9885
+    "followers": 9906
    },
    "format": {
     "kind": "видео",
@@ -266,10 +290,10 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7703980617318370561",
    "title": "Приходите на МК — регистрация по ссылке в шапке профиля. За три дня разберем, что ждет нас и наши деньги в 2027 году, как подготовиться уже сейчас, чтобы сохранить свои сбережения. Поговорим и про нал",
    "posted_at": "2026-11-03T16:19:25.000Z",
-   "popularity": 621,
+   "popularity": 628,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 9885
+    "followers": 9906
    },
    "format": {
     "kind": "видео",
@@ -289,8 +313,8 @@
    "person": "rationalanswer",
    "url": "https://www.youtube.com/watch?v=UXnTh9mJzp4",
    "title": "Взлом Binance на $6 млрд / Отчетность Anthropic перед IPO / Ограничение интернет-трафика в РФ",
-   "posted_at": "2026-11-02T13:14:32.235Z",
-   "popularity": 25000,
+   "posted_at": "2026-11-02T13:36:23.538Z",
+   "popularity": 26000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -306,14 +330,37 @@
    "picked": true
   },
   {
+   "id": "youtube:RMFSyzesBII",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=RMFSyzesBII",
+   "title": "Wildberries и Ozon приучили нас покупать в долг? Рассрочки, кредиты и ловушки маркетплейсов",
+   "posted_at": "2026-11-08T10:36:29.557Z",
+   "popularity": 4900,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-cc25603ea8c6.jpg",
+   "first_seen": "2026-11-08T13:37:30.104Z",
+   "picked": false
+  },
+  {
    "id": "youtube:YB56KMlNh4c",
    "platform": "youtube",
    "source": "@InvestFutureRu",
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=YB56KMlNh4c",
    "title": "Выборы в США обрушили рынки: что происходит с нефтью, золотом и рублём",
-   "posted_at": "2026-11-06T17:14:38.526Z",
-   "popularity": 29000,
+   "posted_at": "2026-11-07T13:36:31.149Z",
+   "popularity": 40000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -335,8 +382,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=TkJihOgtRbk",
    "title": "ДЕНЬГИ ПОД МАТРАСОМ: ПОЧЕМУ РОССИЯНЕ БОЯТСЯ БАНКОВ",
-   "posted_at": "2026-11-04T13:14:40.259Z",
-   "popularity": 82000,
+   "posted_at": "2026-11-04T13:36:32.775Z",
+   "popularity": 86000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -358,8 +405,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=dJdv5szLSuA",
    "title": "«Самолёт» будут спасать? Что делать с акциями и облигациями",
-   "posted_at": "2026-11-04T13:14:42.257Z",
-   "popularity": 25000,
+   "posted_at": "2026-11-04T13:36:34.475Z",
+   "popularity": 26000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -375,37 +422,14 @@
    "picked": false
   },
   {
-   "id": "youtube:Sk9919cuAIk",
-   "platform": "youtube",
-   "source": "@InvestFutureRu",
-   "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=Sk9919cuAIk",
-   "title": "Пенсионные деньги переведут в ПДС без спроса? Что готовит Минфин",
-   "posted_at": "2026-11-03T13:14:43.951Z",
-   "popularity": 135000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-ca7de88a7005.jpg",
-   "first_seen": "2026-11-02T16:12:55.039Z",
-   "picked": false
-  },
-  {
    "id": "youtube:sdpj1PcGqmY",
    "platform": "youtube",
    "source": "@InvestFutureRu",
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=sdpj1PcGqmY",
    "title": "ТОП вкладов в ноябре. Разбираем лучшие предложения банков",
-   "posted_at": "2026-11-01T13:14:45.986Z",
-   "popularity": 68000,
+   "posted_at": "2026-11-01T13:36:37.758Z",
+   "popularity": 71000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -427,8 +451,8 @@
    "person": "ольга сабитова",
    "url": "https://www.youtube.com/watch?v=oRSKPXBWXUE",
    "title": "Почему НИКТО не говорит, что за вклад надо ПЛАТИТЬ?! / Посчитала, какой НАЛОГ вам придет в 2027",
-   "posted_at": "2026-11-06T13:14:53.861Z",
-   "popularity": 26000,
+   "posted_at": "2026-11-06T13:36:45.099Z",
+   "popularity": 33000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -450,8 +474,8 @@
    "person": "ольга сабитова",
    "url": "https://www.youtube.com/watch?v=QfDX8lCJIRQ",
    "title": "Перестань покупать БАРАХЛО! / СЕКРЕТНЫЙ способ экономии в КРИЗИС 2027",
-   "posted_at": "2026-11-04T13:14:55.535Z",
-   "popularity": 33000,
+   "posted_at": "2026-11-04T13:36:46.844Z",
+   "popularity": 37000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -472,9 +496,9 @@
    "source": "@kokorevinvest",
    "person": "дмитрий кокорев",
    "url": "https://www.youtube.com/watch?v=Hl2D63aIBfE",
-   "title": "МЕНЯ ЭТО СЛОМАЛО! Выиграл 1 млн в казино, но долг 2 млн! / Деньги на стол",
-   "posted_at": "2026-11-06T15:15:03.327Z",
-   "popularity": 5400,
+   "title": "С зп 60 000 жили лучше, чем с зп 300 000! Продукты в рассрочку и 93 000 на игры! / Деньги на стол",
+   "posted_at": "2026-11-07T13:36:52.698Z",
+   "popularity": 7600,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -496,8 +520,8 @@
    "person": "дмитрий кокорев",
    "url": "https://www.youtube.com/watch?v=uN9NG7bC3v4",
    "title": "Вы не заметили, а его УЖЕ приняли! Что скрывает новый бюджет РФ на 2027-2029?",
-   "posted_at": "2026-11-04T13:15:05.109Z",
-   "popularity": 102000,
+   "posted_at": "2026-11-04T13:36:54.369Z",
+   "popularity": 112000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -513,37 +537,14 @@
    "picked": true
   },
   {
-   "id": "youtube:2ZTaprFxi0U",
-   "platform": "youtube",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.youtube.com/watch?v=2ZTaprFxi0U",
-   "title": "Почему реальная инфляция отличается от официальной? Кому это выгодно и что нам делать с деньгами?",
-   "posted_at": "2026-10-31T13:15:06.964Z",
-   "popularity": 34000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-41dbacca83a8.jpg",
-   "first_seen": "2026-10-31T12:45:34.981Z",
-   "picked": false
-  },
-  {
    "id": "youtube:Cm3y6lX0I_E",
    "platform": "youtube",
    "source": "@NataliCash",
    "person": "natalicash",
    "url": "https://www.youtube.com/watch?v=Cm3y6lX0I_E",
    "title": "#229 последнее распределение октября 86350р / думаю о досрочке",
-   "posted_at": "2026-11-01T13:15:16.477Z",
-   "popularity": 1200,
+   "posted_at": "2026-11-01T13:37:07.400Z",
+   "popularity": 1300,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -565,8 +566,8 @@
    "person": "finley_rus",
    "url": "https://www.youtube.com/watch?v=IOCsJol9w0E",
    "title": "Ловушка «СРЕДНЕГО КЛАССА»: ПОЧЕМУ повышение зарплаты делает тебя беднее",
-   "posted_at": "2026-11-04T13:15:22.056Z",
-   "popularity": 3600,
+   "posted_at": "2026-11-04T13:37:12.858Z",
+   "popularity": 4800,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -588,8 +589,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=wIAOECxFJk0",
    "title": "Кешбэк. Как он устроен и как на нем заработать? | Финансовая грамотность",
-   "posted_at": "2026-11-06T13:15:27.728Z",
-   "popularity": 1100,
+   "posted_at": "2026-11-06T13:37:18.429Z",
+   "popularity": 1300,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -611,8 +612,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=NsUbNYOI-L0",
    "title": "Россияне назвали желаемый размер ежемесячной зарплаты | Деньги 24",
-   "posted_at": "2026-11-05T13:15:29.569Z",
-   "popularity": 608,
+   "posted_at": "2026-11-05T13:37:20.097Z",
+   "popularity": 649,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -634,8 +635,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=0MMmAldLolU",
    "title": "Пенсию могут автоматически перевести в программу долгосрочных вложений | Деньги 24",
-   "posted_at": "2026-11-04T13:15:31.490Z",
-   "popularity": 9100,
+   "posted_at": "2026-11-04T13:37:21.746Z",
+   "popularity": 9700,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -657,7 +658,7 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=X_tvbXsikc4",
    "title": "Остался месяц, чтобы уплатить имущественные налоги | Деньги 24",
-   "posted_at": "2026-11-03T13:15:33.214Z",
+   "posted_at": "2026-11-03T13:37:23.429Z",
    "popularity": 1100,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -680,7 +681,7 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=JWYC0WyN8Yg",
    "title": "Минцифры планирует ужесточить условия работы виртуальных операторов связи | Деньги 24",
-   "posted_at": "2026-11-02T13:15:34.986Z",
+   "posted_at": "2026-11-02T13:37:25.103Z",
    "popularity": 1200,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -695,6 +696,29 @@
    "media": "data/media/youtube-44570c069a1f.jpg",
    "first_seen": "2026-11-02T16:12:55.039Z",
    "picked": false
+  },
+  {
+   "id": "youtube:LaXNMY9b7Gk",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=LaXNMY9b7Gk",
+   "title": "Налог на переводы с 2027 года? Что изменится с 1 января",
+   "posted_at": "2026-10-31T13:14:47.985Z",
+   "popularity": 167000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-d5300992a1d2.jpg",
+   "first_seen": "2026-10-31T12:45:34.981Z",
+   "picked": true
   },
   {
    "id": "youtube:c1Ytq2yXRaI",
