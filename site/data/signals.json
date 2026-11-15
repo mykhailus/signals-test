@@ -1,12 +1,11 @@
 {
- "generated_at": "2026-11-14T13:39:59.385Z",
+ "generated_at": "2026-11-15T14:04:57.665Z",
  "window_days": 7,
  "theme": "личные финансы",
  "digest": [
   "youtube:3QxsgQFAKms",
-  "youtube:eMGIcFhbd5Y",
-  "tiktok:7706230376632438037",
-  "youtube:SX5hGz4_Ekk"
+  "youtube:FYZ-PRzFbms",
+  "tiktok:7706230376632438037"
  ],
  "formats": {
   "shapes": [
@@ -15,7 +14,7 @@
     "count": 1
    }
   ],
-  "of": 4
+  "of": 3
  },
  "source_report": [
   {
@@ -64,7 +63,7 @@
    "source": "youtube/kokorevinvest",
    "ok": true,
    "scanned": 30,
-   "fresh": 3
+   "fresh": 2
   },
   {
    "source": "youtube/tihiedengi.channel",
@@ -100,8 +99,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=3QxsgQFAKms",
    "title": "ЦБ поднял курс! Что будет дальше с рублём? Прогнозы, пособия и криптовалюта на бирже",
-   "posted_at": "2026-11-09T13:38:56.819Z",
-   "popularity": 87000,
+   "posted_at": "2026-11-09T14:03:57.480Z",
+   "popularity": 88000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -117,14 +116,14 @@
    "picked": true
   },
   {
-   "id": "youtube:eMGIcFhbd5Y",
+   "id": "youtube:FYZ-PRzFbms",
    "platform": "youtube",
-   "source": "@T_J_youtube",
-   "person": "t_j_youtube",
-   "url": "https://www.youtube.com/watch?v=eMGIcFhbd5Y",
-   "title": "Как заработать на будущем? Polymarket, ставки на Трампа и рынки предсказаний",
-   "posted_at": "2026-11-09T13:38:40.273Z",
-   "popularity": 53000,
+   "source": "@olgasabitova",
+   "person": "ольга сабитова",
+   "url": "https://www.youtube.com/watch?v=FYZ-PRzFbms",
+   "title": "ПОСЛЕДНЕЕ предупреждение от ПРАВИТЕЛЬСТВА! / К чему готовиться и как СПАСТИ свои деньги?",
+   "posted_at": "2026-11-13T14:04:07.817Z",
+   "popularity": 59000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -135,8 +134,8 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-bfcfa7b50b0e.jpg",
-   "first_seen": "2026-11-09T16:35:24.378Z",
+   "media": "data/media/youtube-ea4bdc38fce4.jpg",
+   "first_seen": "2026-11-12T15:25:25.935Z",
    "picked": true
   },
   {
@@ -147,7 +146,7 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7706230376632438037",
    "title": "100 ₽ в 2013 и СЕЙЧАС: что от них осталось? ⚡️Все об инвестициях уже в моём профиле. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. Падение нефти, скачки курса, повышение НДС, пандемия и санкци",
    "posted_at": "2026-11-09T17:49:38.000Z",
-   "popularity": 20300,
+   "popularity": 20600,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": 10200
@@ -164,14 +163,14 @@
    "picked": true
   },
   {
-   "id": "youtube:SX5hGz4_Ekk",
+   "id": "youtube:eMGIcFhbd5Y",
    "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=SX5hGz4_Ekk",
-   "title": "ШОК! ЦБ ПРОТИВ ЛЬГОТ!!! | Деньги 24",
-   "posted_at": "2026-11-13T14:39:40.960Z",
-   "popularity": 3800,
+   "source": "@T_J_youtube",
+   "person": "t_j_youtube",
+   "url": "https://www.youtube.com/watch?v=eMGIcFhbd5Y",
+   "title": "Как заработать на будущем? Polymarket, ставки на Трампа и рынки предсказаний",
+   "posted_at": "2026-11-09T14:03:39.186Z",
+   "popularity": 54000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -182,8 +181,8 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-dab0f3ebe1c6.jpg",
-   "first_seen": "2026-11-13T14:42:40.805Z",
+   "media": "data/media/youtube-bfcfa7b50b0e.jpg",
+   "first_seen": "2026-11-09T16:35:24.378Z",
    "picked": true
   },
   {
@@ -193,8 +192,8 @@
    "person": "rationalanswer",
    "url": "https://www.youtube.com/watch?v=136tfpSFB3o",
    "title": "Трамп проиграл выборы / Распродажа акций ИИ-компаний / AI ускоряет сам себя",
-   "posted_at": "2026-11-09T13:38:45.851Z",
-   "popularity": 16000,
+   "posted_at": "2026-11-09T14:03:45.060Z",
+   "popularity": 17000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -210,14 +209,37 @@
    "picked": true
   },
   {
+   "id": "youtube:h4UcH8HdAnI",
+   "platform": "youtube",
+   "source": "@InvestFutureRu",
+   "person": "investfuture",
+   "url": "https://www.youtube.com/watch?v=h4UcH8HdAnI",
+   "title": "Банки, крипта и ИИ: что угрожает вашим деньгам?",
+   "posted_at": "2026-11-14T15:03:51.377Z",
+   "popularity": 13000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-6dae86fc56d0.jpg",
+   "first_seen": "2026-11-15T14:04:57.665Z",
+   "picked": false
+  },
+  {
    "id": "youtube:Gh_8ymcAdsw",
    "platform": "youtube",
    "source": "@InvestFutureRu",
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=Gh_8ymcAdsw",
    "title": "Цифровой рубль, инфляция, дефицит бюджета — главные цифры недели!",
-   "posted_at": "2026-11-13T13:38:52.727Z",
-   "popularity": 21000,
+   "posted_at": "2026-11-13T14:03:53.507Z",
+   "popularity": 25000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -239,8 +261,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=7TehK1rTCdY",
    "title": "Переговоры в Абу-Даби: что известно? Топливо, долги бизнеса и рынок труда",
-   "posted_at": "2026-11-11T13:38:54.918Z",
-   "popularity": 26000,
+   "posted_at": "2026-11-11T14:03:55.538Z",
+   "popularity": 27000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -262,8 +284,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=RMFSyzesBII",
    "title": "Wildberries и Ozon приучили нас покупать в долг? Рассрочки, кредиты и ловушки маркетплейсов",
-   "posted_at": "2026-11-08T13:38:58.831Z",
-   "popularity": 55000,
+   "posted_at": "2026-11-08T14:03:59.309Z",
+   "popularity": 57000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -279,60 +301,14 @@
    "picked": false
   },
   {
-   "id": "youtube:YB56KMlNh4c",
-   "platform": "youtube",
-   "source": "@InvestFutureRu",
-   "person": "investfuture",
-   "url": "https://www.youtube.com/watch?v=YB56KMlNh4c",
-   "title": "Выборы в США обрушили рынки: что происходит с нефтью, золотом и рублём",
-   "posted_at": "2026-11-07T13:39:00.861Z",
-   "popularity": 46000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-076e7118c513.jpg",
-   "first_seen": "2026-11-07T13:15:41.960Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:FYZ-PRzFbms",
-   "platform": "youtube",
-   "source": "@olgasabitova",
-   "person": "ольга сабитова",
-   "url": "https://www.youtube.com/watch?v=FYZ-PRzFbms",
-   "title": "ПОСЛЕДНЕЕ предупреждение от ПРАВИТЕЛЬСТВА! / К чему готовиться и как СПАСТИ свои деньги?",
-   "posted_at": "2026-11-13T13:39:06.715Z",
-   "popularity": 47000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-ea4bdc38fce4.jpg",
-   "first_seen": "2026-11-12T15:25:25.935Z",
-   "picked": false
-  },
-  {
    "id": "youtube:rM0kib9yJ94",
    "platform": "youtube",
    "source": "@olgasabitova",
    "person": "ольга сабитова",
    "url": "https://www.youtube.com/watch?v=rM0kib9yJ94",
    "title": "Жириновский ПРЕДСКАЗАЛ экономику России аж до 2040 года! / Что будет с нашими ДЕНЬГАМИ?",
-   "posted_at": "2026-11-11T13:39:08.504Z",
-   "popularity": 23000,
+   "posted_at": "2026-11-11T14:04:09.489Z",
+   "popularity": 28000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -354,8 +330,8 @@
    "person": "дмитрий кокорев",
    "url": "https://www.youtube.com/watch?v=4AkO7YbENPM",
    "title": "Купоны как зарплата! 6 ЛУЧШИХ облигаций на 2027 с ежемесячными выплатами!",
-   "posted_at": "2026-11-13T13:39:16.391Z",
-   "popularity": 40000,
+   "posted_at": "2026-11-13T14:04:15.339Z",
+   "popularity": 56000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -377,8 +353,8 @@
    "person": "дмитрий кокорев",
    "url": "https://www.youtube.com/watch?v=a4iJzXD8g8M",
    "title": "Вашу бдительность усыпили! Что произойдет, когда вклады заморозят? Объясняю простыми словами!",
-   "posted_at": "2026-11-10T13:39:18.008Z",
-   "popularity": 93000,
+   "posted_at": "2026-11-10T14:04:17.046Z",
+   "popularity": 114000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -394,37 +370,14 @@
    "picked": false
   },
   {
-   "id": "youtube:Hl2D63aIBfE",
-   "platform": "youtube",
-   "source": "@kokorevinvest",
-   "person": "дмитрий кокорев",
-   "url": "https://www.youtube.com/watch?v=Hl2D63aIBfE",
-   "title": "С зп 60 000 жили лучше, чем с зп 300 000! Продукты в рассрочку и 93 000 на игры! / Деньги на стол",
-   "posted_at": "2026-11-07T13:39:20.015Z",
-   "popularity": 26000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-c732fd88c936.jpg",
-   "first_seen": "2026-11-07T13:15:41.960Z",
-   "picked": false
-  },
-  {
    "id": "youtube:WGWFVrLl4uI",
    "platform": "youtube",
    "source": "@NataliCash",
    "person": "natalicash",
    "url": "https://www.youtube.com/watch?v=WGWFVrLl4uI",
    "title": "#231 первое распределение ноября 36700р / планирую досрочку, отдаю долги ",
-   "posted_at": "2026-11-08T13:39:29.552Z",
-   "popularity": 932,
+   "posted_at": "2026-11-08T14:04:28.718Z",
+   "popularity": 941,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -446,8 +399,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=UMaLFQt4Cw4",
    "title": "ПДС | Деньги 24",
-   "posted_at": "2026-11-13T15:39:39.157Z",
-   "popularity": 3100,
+   "posted_at": "2026-11-14T14:04:38.420Z",
+   "popularity": 4600,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -463,14 +416,37 @@
    "picked": false
   },
   {
+   "id": "youtube:SX5hGz4_Ekk",
+   "platform": "youtube",
+   "source": "@Dengi24",
+   "person": "dengi24",
+   "url": "https://www.youtube.com/watch?v=SX5hGz4_Ekk",
+   "title": "ШОК! ЦБ ПРОТИВ ЛЬГОТ!!! | Деньги 24",
+   "posted_at": "2026-11-13T14:04:40.302Z",
+   "popularity": 5100,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-dab0f3ebe1c6.jpg",
+   "first_seen": "2026-11-13T14:42:40.805Z",
+   "picked": true
+  },
+  {
    "id": "youtube:CXI4WKMGPy8",
    "platform": "youtube",
    "source": "@Dengi24",
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=CXI4WKMGPy8",
    "title": "Цифровой рубль: где выгода для обычного покупателя? | Деньги 24",
-   "posted_at": "2026-11-13T13:39:42.739Z",
-   "popularity": 554,
+   "posted_at": "2026-11-13T14:04:42.020Z",
+   "popularity": 611,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -492,8 +468,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=8qawVF0r1RM",
    "title": "Золото подешевело: стоит ли ждать прибыли через полгода? | Деньги 24",
-   "posted_at": "2026-11-12T13:39:44.738Z",
-   "popularity": 475,
+   "posted_at": "2026-11-12T14:04:43.686Z",
+   "popularity": 517,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -515,8 +491,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=s0rLV5MZxMY",
    "title": "Накопительный счёт или вклад: что сравнить кроме ставки? | Деньги 24",
-   "posted_at": "2026-11-12T13:39:46.656Z",
-   "popularity": 690,
+   "posted_at": "2026-11-12T14:04:45.462Z",
+   "popularity": 715,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -538,8 +514,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=FcFZK_DyP_o",
    "title": "Компенсация за квартиру: как различать решение суда и выплату? | Деньги 24",
-   "posted_at": "2026-11-12T13:39:48.522Z",
-   "popularity": 555,
+   "posted_at": "2026-11-11T14:04:47.254Z",
+   "popularity": 580,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -561,7 +537,7 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=v5X8jErew3Y",
    "title": "Какие решения останутся владельцу накоплений при переходе в ПДС? | Деньги 24",
-   "posted_at": "2026-11-11T13:39:50.498Z",
+   "posted_at": "2026-11-11T14:04:49.135Z",
    "popularity": 1000,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -584,8 +560,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=gECKOeb6Mnk",
    "title": "Минфин увеличит закупки золота и валюты: что будет с курсом рубля? | Деньги 24",
-   "posted_at": "2026-11-10T13:39:52.335Z",
-   "popularity": 5100,
+   "posted_at": "2026-11-10T14:04:50.935Z",
+   "popularity": 5200,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -607,8 +583,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=_GjSWKt4PC8",
    "title": "Рыба дорожает в опте: что будет с ценами в магазине? | Деньги 24",
-   "posted_at": "2026-11-10T13:39:54.218Z",
-   "popularity": 867,
+   "posted_at": "2026-11-10T14:04:52.619Z",
+   "popularity": 978,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -630,8 +606,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=93pX1tkfo_w",
    "title": "Деньги умерших на счетах: когда они могут перейти государству? | Деньги 24",
-   "posted_at": "2026-11-09T13:39:56.041Z",
-   "popularity": 997,
+   "posted_at": "2026-11-09T14:04:54.335Z",
+   "popularity": 1000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
