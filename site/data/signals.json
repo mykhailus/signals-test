@@ -1,12 +1,13 @@
 {
- "generated_at": "2026-11-21T14:46:47.418Z",
+ "generated_at": "2026-11-22T14:46:19.832Z",
  "window_days": 7,
  "theme": "личные финансы",
  "digest": [
   "youtube:qKlX3LQo3zs",
   "youtube:n867nCM6aQs",
   "youtube:gezXNefsyAI",
-  "tiktok:7708789776324840711"
+  "tiktok:7708789776324840711",
+  "youtube:hi6B1_ZTYIY"
  ],
  "formats": {
   "shapes": [
@@ -15,7 +16,7 @@
     "count": 1
    }
   ],
-  "of": 4
+  "of": 5
  },
  "source_report": [
   {
@@ -58,7 +59,7 @@
    "source": "youtube/olgasabitova",
    "ok": true,
    "scanned": 30,
-   "fresh": 1
+   "fresh": 2
   },
   {
    "source": "youtube/kokorevinvest",
@@ -76,7 +77,7 @@
    "source": "youtube/NataliCash",
    "ok": true,
    "scanned": 30,
-   "fresh": 1
+   "fresh": 2
   },
   {
    "source": "youtube/Finley_Rus",
@@ -88,7 +89,7 @@
    "source": "youtube/Dengi24",
    "ok": true,
    "scanned": 30,
-   "fresh": 10
+   "fresh": 9
   }
  ],
  "summary": "",
@@ -100,8 +101,8 @@
    "person": "t_j_youtube",
    "url": "https://www.youtube.com/watch?v=qKlX3LQo3zs",
    "title": "Почему мы работаем больше 8 часов? Правда о переработках в России",
-   "posted_at": "2026-11-16T14:45:28.006Z",
-   "popularity": 177000,
+   "posted_at": "2026-11-16T14:41:57.977Z",
+   "popularity": 183000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -123,8 +124,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=n867nCM6aQs",
    "title": "Налоговая возьмётся за переводы россиян: что теперь нельзя делать с картой?",
-   "posted_at": "2026-11-19T14:45:45.398Z",
-   "popularity": 125000,
+   "posted_at": "2026-11-19T14:42:56.303Z",
+   "popularity": 154000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -146,8 +147,8 @@
    "person": "ольга сабитова",
    "url": "https://www.youtube.com/watch?v=gezXNefsyAI",
    "title": "Что будет с нашими ДЕНЬГАМИ в 2027? / Большой прогноз и как ЗАЩИТИТЬ свои деньги?",
-   "posted_at": "2026-11-20T14:45:56.978Z",
-   "popularity": 41000,
+   "posted_at": "2026-11-20T14:43:39.662Z",
+   "popularity": 50000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -170,7 +171,7 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7708789776324840711",
    "title": "Кто стал БОГАЧЕ, пока вся страна НИЩАЛА?  ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайтесь! Здравствуйте! С вами Дмитрий Кокорев. Осенью 1923 года деньги в Германии те",
    "posted_at": "2026-11-16T15:21:25.000Z",
-   "popularity": 1144,
+   "popularity": 1194,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": 10400
@@ -187,6 +188,29 @@
    "picked": true
   },
   {
+   "id": "youtube:hi6B1_ZTYIY",
+   "platform": "youtube",
+   "source": "@NataliCash",
+   "person": "natalicash",
+   "url": "https://www.youtube.com/watch?v=hi6B1_ZTYIY",
+   "title": "#235 третье распределение ноября 39800р / начинаю формировать накопления",
+   "posted_at": "2026-11-22T06:44:10.696Z",
+   "popularity": 440,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-3e328862e589.jpg",
+   "first_seen": "2026-11-22T14:46:19.832Z",
+   "picked": true
+  },
+  {
    "id": "tiktok:7709941639560645906",
    "platform": "tiktok",
    "source": "@kokorevinvest",
@@ -194,7 +218,7 @@
    "url": "https://www.tiktok.com/@kokorevinvest/video/7709941639560645906",
    "title": "Моя пирамида из кредиток! Первый выпуск подкаста «Деньги на стол» с полным разбором финансов Андрея уже  меня на Youtube! ⚡️Больше об инвестициях у меня в Телеграм, ссылка в шапке профиля. Подписывайт",
    "posted_at": "2026-11-19T17:51:14.000Z",
-   "popularity": 449,
+   "popularity": 487,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": 10400
@@ -217,8 +241,8 @@
    "person": "rationalanswer",
    "url": "https://www.youtube.com/watch?v=ZBj6Jcmnxf4",
    "title": "AI нас всех убьет? Давайте разбираться! – Павел Комаровский на AI Dev Live 2026",
-   "posted_at": "2026-11-20T14:45:33.729Z",
-   "popularity": 9400,
+   "posted_at": "2026-11-20T14:42:11.896Z",
+   "popularity": 12000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -240,8 +264,8 @@
    "person": "rationalanswer",
    "url": "https://www.youtube.com/watch?v=nbMVEOtrAdE",
    "title": "Хуанга ушли из Nvidia / Возврат IPO Антропика / Илон Маск посадил Starship",
-   "posted_at": "2026-11-16T14:45:35.580Z",
-   "popularity": 18000,
+   "posted_at": "2026-11-16T14:42:21.953Z",
+   "popularity": 19000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -263,8 +287,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=ytW_OLBmB3g",
    "title": "Рынок НЕ ВЕРИТ саммиту Путина, Трампа и Си! Что происходит с экономикой?",
-   "posted_at": "2026-11-20T15:45:41.788Z",
-   "popularity": 30000,
+   "posted_at": "2026-11-21T14:42:36.279Z",
+   "popularity": 38000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -286,8 +310,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=jkVc4j6arR4",
    "title": "На всю котлету | Хомяк - Первая боль (1 серия )",
-   "posted_at": "2026-11-20T14:45:43.569Z",
-   "popularity": 10000,
+   "posted_at": "2026-11-20T14:42:46.330Z",
+   "popularity": 11000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -309,8 +333,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=pw2-YZKMIDw",
    "title": "НОВЫЕ ЗАКОНЫ: техсбор, налоги, автокредиты, штрафы и выплаты С 1 ДЕКАБРЯ",
-   "posted_at": "2026-11-17T14:45:47.195Z",
-   "popularity": 78000,
+   "posted_at": "2026-11-17T14:43:06.308Z",
+   "popularity": 80000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -332,8 +356,8 @@
    "person": "investfuture",
    "url": "https://www.youtube.com/watch?v=h4UcH8HdAnI",
    "title": "Банки, крипта и ИИ: что угрожает вашим деньгам?",
-   "posted_at": "2026-11-15T14:45:48.965Z",
-   "popularity": 20000,
+   "posted_at": "2026-11-15T14:43:16.219Z",
+   "popularity": 21000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -349,14 +373,37 @@
    "picked": false
   },
   {
+   "id": "youtube:BYDW4fOo4P0",
+   "platform": "youtube",
+   "source": "@olgasabitova",
+   "person": "ольга сабитова",
+   "url": "https://www.youtube.com/watch?v=BYDW4fOo4P0",
+   "title": "Даже Илон Маск инвестирует по ЭТОЙ схеме! / Формула ИДЕАЛЬНОГО портфеля для НОВИЧКОВ",
+   "posted_at": "2026-11-21T15:43:30.005Z",
+   "popularity": 14000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-73654474edd3.jpg",
+   "first_seen": "2026-11-22T14:46:19.832Z",
+   "picked": false
+  },
+  {
    "id": "youtube:NXOWE1xjC2E",
    "platform": "youtube",
    "source": "@kokorevinvest",
    "person": "дмитрий кокорев",
    "url": "https://www.youtube.com/watch?v=NXOWE1xjC2E",
    "title": "Бухгалтер с 5 кредитами и долгом в 1 млн! Что делать, если не получается копить?",
-   "posted_at": "2026-11-20T17:46:04.567Z",
-   "popularity": 12000,
+   "posted_at": "2026-11-21T14:43:53.332Z",
+   "popularity": 24000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -378,8 +425,8 @@
    "person": "natalicash",
    "url": "https://www.youtube.com/watch?v=mfyRn9U1EkY",
    "title": "#234 второе распределение ноября 45600р / ОПЯТЬ ОБНУЛИЛА ФОНДЫ / закрыла часть долгов",
-   "posted_at": "2026-11-17T14:46:15.870Z",
-   "popularity": 809,
+   "posted_at": "2026-11-17T14:44:20.448Z",
+   "popularity": 828,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -401,7 +448,7 @@
    "person": "finley_rus",
    "url": "https://www.youtube.com/watch?v=qiUszyXs0sE",
    "title": "Ловушка «Я это заслужил»: как твои $150 крадут 10 лет свободы",
-   "posted_at": "2026-11-19T14:46:21.577Z",
+   "posted_at": "2026-11-19T14:44:34.241Z",
    "popularity": 1000,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -424,8 +471,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=nyfoYKb7h_g",
    "title": "БАНК РОССИИ ЛЮТУЕТ! | Деньги 24",
-   "posted_at": "2026-11-20T14:46:27.312Z",
-   "popularity": 5500,
+   "posted_at": "2026-11-20T14:44:47.846Z",
+   "popularity": 6900,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -447,8 +494,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=sehMpiATuPQ",
    "title": "ЗПИФы недвижимости: как стать рантье? | Деньги 24",
-   "posted_at": "2026-11-20T14:46:29.245Z",
-   "popularity": 704,
+   "posted_at": "2026-11-20T14:44:57.608Z",
+   "popularity": 790,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -470,8 +517,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=eMflq_U8sPU",
    "title": "GTA VI - выпуск на хайпе | Специальный выпуск",
-   "posted_at": "2026-11-19T14:46:31.121Z",
-   "popularity": 4700,
+   "posted_at": "2026-11-19T14:45:07.387Z",
+   "popularity": 4900,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -493,8 +540,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=d8da8-2BKCw",
    "title": "Средний автокредит достиг 2 млн рублей на новое авто | Деньги 24",
-   "posted_at": "2026-11-19T14:46:32.955Z",
-   "popularity": 885,
+   "posted_at": "2026-11-19T14:45:17.096Z",
+   "popularity": 1000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -516,8 +563,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=nqHyZ8d3BxU",
    "title": "Переводы физлиц и ФНС: что хотят изменить в контроле? | Деньги 24",
-   "posted_at": "2026-11-18T14:46:34.872Z",
-   "popularity": 1000,
+   "posted_at": "2026-11-18T14:45:27.173Z",
+   "popularity": 1100,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -539,7 +586,7 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=R4Xi6vIV4Uw",
    "title": "Налог с процентов: что остаётся за ФНС при удержании банком? | Деньги 24",
-   "posted_at": "2026-11-18T14:46:36.614Z",
+   "posted_at": "2026-11-18T14:45:36.969Z",
    "popularity": 1200,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -562,8 +609,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=p1_F6cKtEcs",
    "title": "Что нужно учитывать перед открытием индивидуального инвестиционного счета? | Деньги 24",
-   "posted_at": "2026-11-17T14:46:38.477Z",
-   "popularity": 994,
+   "posted_at": "2026-11-17T14:45:46.839Z",
+   "popularity": 1000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -585,8 +632,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=nWNtn_8H8fM",
    "title": "Спрос на настольные игры вырос в 3 раза с 2020 года | Деньги 24",
-   "posted_at": "2026-11-17T14:46:40.393Z",
-   "popularity": 656,
+   "posted_at": "2026-11-17T14:45:56.694Z",
+   "popularity": 664,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -608,8 +655,8 @@
    "person": "dengi24",
    "url": "https://www.youtube.com/watch?v=75hudg7v5DU",
    "title": "Техсбор на электронику начнёт действовать с 1 декабря | Деньги 24",
-   "posted_at": "2026-11-16T14:46:42.257Z",
-   "popularity": 801,
+   "posted_at": "2026-11-16T14:46:06.604Z",
+   "popularity": 816,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -622,29 +669,6 @@
    },
    "media": "data/media/youtube-7d62162dcd39.jpg",
    "first_seen": "2026-11-16T16:03:18.206Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:UMaLFQt4Cw4",
-   "platform": "youtube",
-   "source": "@Dengi24",
-   "person": "dengi24",
-   "url": "https://www.youtube.com/watch?v=UMaLFQt4Cw4",
-   "title": "ПДС | Деньги 24",
-   "posted_at": "2026-11-14T14:46:44.073Z",
-   "popularity": 5900,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-01496d496836.jpg",
-   "first_seen": "2026-11-14T13:39:59.385Z",
    "picked": false
   },
   {
